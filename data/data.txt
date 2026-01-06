@@ -1,0 +1,8 @@
+TO load the datasets locally excute the script in `scripts/load_datasets.py`
+Data Folder Structure
+
+- Dataset A: CelebA:
+    celebra-sample - extracted folder
+    celeba-sample.zip
+- Dataset B: Flikr 8k
+
