@@ -15,11 +15,7 @@ Activate the virtual environment:
 
 ### 2. Install Dependencies with uv
 
-Install [uv](https://docs.astral.sh/uv/) if you haven't already:
-
-```bash
-pip install uv
-```
+Install [uv](https://docs.astral.sh/uv/) if you haven't already
 
 Sync dependencies based on your hardware:
 
@@ -49,11 +45,11 @@ Run the download script:
 
 ```bash
 # Download all datasets
-python scripts/load_datasets.py
+uv run scripts/load_datasets.py
 
 # Download specific dataset
-python scripts/load_datasets.py --dataset celeba
-python scripts/load_datasets.py --dataset flickr
+uv run scripts/load_datasets.py --dataset celeba
+uv run scripts/load_datasets.py --dataset flickr
 ```
 
 Datasets will be saved to the `data/` directory.
