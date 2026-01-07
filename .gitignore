@@ -208,5 +208,15 @@ __marimo__/
 
 
 # task_notes/
-data/*
-!data/data.txt
+data/celeba-sample.zip
+data/flickr8k.zip
+data/celeba-sample/
+
+data/img-align-celeba/
+img-align-celeba/
+data/flickr8k/
+flickr8k/
+data/image_embeddings.npz
+image_embeddings.npz
+images_subset/
+data/celeba_subset/
