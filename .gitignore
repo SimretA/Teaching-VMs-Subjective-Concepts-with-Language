@@ -205,3 +205,14 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+
+data/img-align-celeba/
+img-align-celeba/
+data/flickr8k/
+flickr8k/
+data/image_embeddings.npz
+image_embeddings.npz
+images_subset/
+data/celeba_subset/
