@@ -1,0 +1,94 @@
+{
+  "model": "openai/clip-vit-base-patch32",
+  "dataset": "Stanford Dogs",
+  "num_images": 500,
+  "k": 10,
+  "average_precision": 0.5599999999999999,
+  "queries": {
+    "a golden retriever": {
+      "type": "objective",
+      "precision_at_k": 0.4,
+      "labels": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0
+      ],
+      "num_relevant": 4
+    },
+    "a dog running": {
+      "type": "objective",
+      "precision_at_k": 1.0,
+      "labels": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "num_relevant": 10
+    },
+    "a small dog": {
+      "type": "objective",
+      "precision_at_k": 0.1,
+      "labels": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "num_relevant": 1
+    },
+    "a dog looking guilty": {
+      "type": "subjective",
+      "precision_at_k": 0.5,
+      "labels": [
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
+      "num_relevant": 5
+    },
+    "a cute fluffy dog": {
+      "type": "subjective",
+      "precision_at_k": 0.8,
+      "labels": [
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0
+      ],
+      "num_relevant": 8
+    }
+  }
+}

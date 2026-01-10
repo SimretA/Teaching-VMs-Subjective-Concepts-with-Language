@@ -1,0 +1,103 @@
+{
+  "model": "openai/clip-vit-base-patch32",
+  "dataset": "CelebA",
+  "num_images": 500,
+  "k": 10,
+  "average_precision": 0.8400000000000001,
+  "queries": {
+    "a person wearing glasses": {
+      "conditions": {
+        "Eyeglasses": 1
+      },
+      "precision_at_k": 1.0,
+      "labels": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "num_relevant": 10
+    },
+    "a smiling person": {
+      "conditions": {
+        "Smiling": 1
+      },
+      "precision_at_k": 1.0,
+      "labels": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "num_relevant": 10
+    },
+    "a man with a beard": {
+      "conditions": {
+        "Male": 1,
+        "No_Beard": 0
+      },
+      "precision_at_k": 0.9,
+      "labels": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        1
+      ],
+      "num_relevant": 9
+    },
+    "a young person": {
+      "conditions": {
+        "Young": 1
+      },
+      "precision_at_k": 1.0,
+      "labels": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "num_relevant": 10
+    },
+    "a person looking guilty": {
+      "conditions": {},
+      "precision_at_k": 0.3,
+      "labels": [
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "num_relevant": 3
+    }
+  }
+}

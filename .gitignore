@@ -220,3 +220,8 @@ data/image_embeddings.npz
 image_embeddings.npz
 images_subset/
 data/celeba_subset/
+data/list_attr_celeba.csv
+data/celeba-dataset/
+data/flickr8k_subset/
+celeba_subset/
+stanford_dogs_subset/
