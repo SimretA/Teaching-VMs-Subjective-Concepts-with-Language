@@ -1,0 +1,442 @@
+,,,,,,,image uploaded into results,is this image relevant to the qurey? 1 or 0,,,
+query_text,dataset,query_type,positive,negative,method,image_number,image_link,annotator_1,annotator_2,annotator_3,aggregate 
+a golder retriever,stanford_dogs,objective,,,CLIP,1,stanford_golden retriever.png,1,1,1,1
+a golder retriever,stanford_dogs,objective,,,CLIP,2,stanford_golden retriever.png,1,1,1,1
+a golder retriever,stanford_dogs,objective,,,CLIP,3,stanford_golden retriever.png,0,0,1,0
+a golder retriever,stanford_dogs,objective,,,CLIP,4,stanford_golden retriever.png,0,0,0,0
+a golder retriever,stanford_dogs,objective,,,CLIP,5,stanford_golden retriever.png,0,0,0,0
+a golder retriever,stanford_dogs,objective,,,CLIP,6,stanford_golden retriever.png,1,1,1,1
+a golder retriever,stanford_dogs,objective,,,CLIP,7,stanford_golden retriever.png,0,0,0,0
+a golder retriever,stanford_dogs,objective,,,CLIP,8,stanford_golden retriever.png,1,1,1,1
+a golder retriever,stanford_dogs,objective,,,CLIP,9,stanford_golden retriever.png,0,1,1,1
+a golder retriever,stanford_dogs,objective,,,CLIP,10,stanford_golden retriever.png,0,1,1,1
+a golder retriever,stanford_dogs,objective,"""golden retriever dog"", ""light golden or cream colored fur"", ""medium to long wavy coat"", ""soft feathered tail"",""long fur on chest and legs"",""floppy ears"",""broad head with gentle facial structure"",""medium to large sized retriever dog"", ""athletic but well balanced body""","""short fur dog"", ""dark colored fur"",""black or brown coat"",""tight curly coat"",""thin or hairless tail"",""pointed upright ears"",""wolf-like dog"",""small dog breed""",Feedback,1,stanford_golden retriever.png,1,1,1,1
+a golder retriever,stanford_dogs,objective,"""golden retriever dog"", ""light golden or cream colored fur"", ""medium to long wavy coat"", ""soft feathered tail"",""long fur on chest and legs"",""floppy ears"",""broad head with gentle facial structure"",""medium to large sized retriever dog"", ""athletic but well balanced body""","""short fur dog"", ""dark colored fur"",""black or brown coat"",""tight curly coat"",""thin or hairless tail"",""pointed upright ears"",""wolf-like dog"",""small dog breed""",Feedback,2,stanford_golden retriever.png,1,1,1,1
+a golder retriever,stanford_dogs,objective,"""golden retriever dog"", ""light golden or cream colored fur"", ""medium to long wavy coat"", ""soft feathered tail"",""long fur on chest and legs"",""floppy ears"",""broad head with gentle facial structure"",""medium to large sized retriever dog"", ""athletic but well balanced body""","""short fur dog"", ""dark colored fur"",""black or brown coat"",""tight curly coat"",""thin or hairless tail"",""pointed upright ears"",""wolf-like dog"",""small dog breed""",Feedback,3,stanford_golden retriever.png,1,1,1,1
+a golder retriever,stanford_dogs,objective,"""golden retriever dog"", ""light golden or cream colored fur"", ""medium to long wavy coat"", ""soft feathered tail"",""long fur on chest and legs"",""floppy ears"",""broad head with gentle facial structure"",""medium to large sized retriever dog"", ""athletic but well balanced body""","""short fur dog"", ""dark colored fur"",""black or brown coat"",""tight curly coat"",""thin or hairless tail"",""pointed upright ears"",""wolf-like dog"",""small dog breed""",Feedback,4,stanford_golden retriever.png,0,1,1,1
+a golder retriever,stanford_dogs,objective,"""golden retriever dog"", ""light golden or cream colored fur"", ""medium to long wavy coat"", ""soft feathered tail"",""long fur on chest and legs"",""floppy ears"",""broad head with gentle facial structure"",""medium to large sized retriever dog"", ""athletic but well balanced body""","""short fur dog"", ""dark colored fur"",""black or brown coat"",""tight curly coat"",""thin or hairless tail"",""pointed upright ears"",""wolf-like dog"",""small dog breed""",Feedback,5,stanford_golden retriever.png,0,0,0,0
+a golder retriever,stanford_dogs,objective,"""golden retriever dog"", ""light golden or cream colored fur"", ""medium to long wavy coat"", ""soft feathered tail"",""long fur on chest and legs"",""floppy ears"",""broad head with gentle facial structure"",""medium to large sized retriever dog"", ""athletic but well balanced body""","""short fur dog"", ""dark colored fur"",""black or brown coat"",""tight curly coat"",""thin or hairless tail"",""pointed upright ears"",""wolf-like dog"",""small dog breed""",Feedback,6,stanford_golden retriever.png,0,0,1,0
+a golder retriever,stanford_dogs,objective,"""golden retriever dog"", ""light golden or cream colored fur"", ""medium to long wavy coat"", ""soft feathered tail"",""long fur on chest and legs"",""floppy ears"",""broad head with gentle facial structure"",""medium to large sized retriever dog"", ""athletic but well balanced body""","""short fur dog"", ""dark colored fur"",""black or brown coat"",""tight curly coat"",""thin or hairless tail"",""pointed upright ears"",""wolf-like dog"",""small dog breed""",Feedback,7,stanford_golden retriever.png,1,1,1,1
+a golder retriever,stanford_dogs,objective,"""golden retriever dog"", ""light golden or cream colored fur"", ""medium to long wavy coat"", ""soft feathered tail"",""long fur on chest and legs"",""floppy ears"",""broad head with gentle facial structure"",""medium to large sized retriever dog"", ""athletic but well balanced body""","""short fur dog"", ""dark colored fur"",""black or brown coat"",""tight curly coat"",""thin or hairless tail"",""pointed upright ears"",""wolf-like dog"",""small dog breed""",Feedback,8,stanford_golden retriever.png,0,1,1,1
+a golder retriever,stanford_dogs,objective,"""golden retriever dog"", ""light golden or cream colored fur"", ""medium to long wavy coat"", ""soft feathered tail"",""long fur on chest and legs"",""floppy ears"",""broad head with gentle facial structure"",""medium to large sized retriever dog"", ""athletic but well balanced body""","""short fur dog"", ""dark colored fur"",""black or brown coat"",""tight curly coat"",""thin or hairless tail"",""pointed upright ears"",""wolf-like dog"",""small dog breed""",Feedback,9,stanford_golden retriever.png,0,0,0,0
+a golder retriever,stanford_dogs,objective,"""golden retriever dog"", ""light golden or cream colored fur"", ""medium to long wavy coat"", ""soft feathered tail"",""long fur on chest and legs"",""floppy ears"",""broad head with gentle facial structure"",""medium to large sized retriever dog"", ""athletic but well balanced body""","""short fur dog"", ""dark colored fur"",""black or brown coat"",""tight curly coat"",""thin or hairless tail"",""pointed upright ears"",""wolf-like dog"",""small dog breed""",Feedback,10,stanford_golden retriever.png,0,0,0,0
+a dog on a beach,stanford_dogs,objective,,,CLIP,1,stanford_dog_on_a_beach.png,1,1,1,1
+a dog on a beach,stanford_dogs,objective,,,CLIP,2,stanford_dog_on_a_beach.png,1,1,1,1
+a dog on a beach,stanford_dogs,objective,,,CLIP,3,stanford_dog_on_a_beach.png,1,1,1,1
+a dog on a beach,stanford_dogs,objective,,,CLIP,4,stanford_dog_on_a_beach.png,1,1,1,1
+a dog on a beach,stanford_dogs,objective,,,CLIP,5,stanford_dog_on_a_beach.png,1,1,1,1
+a dog on a beach,stanford_dogs,objective,,,CLIP,6,stanford_dog_on_a_beach.png,1,1,1,1
+a dog on a beach,stanford_dogs,objective,,,CLIP,7,stanford_dog_on_a_beach.png,0,0,0,0
+a dog on a beach,stanford_dogs,objective,,,CLIP,8,stanford_dog_on_a_beach.png,1,1,0,1
+a dog on a beach,stanford_dogs,objective,,,CLIP,9,stanford_dog_on_a_beach.png,1,1,1,1
+a dog on a beach,stanford_dogs,objective,,,CLIP,10,stanford_dog_on_a_beach.png,1,1,1,1
+a dog on a beach,stanford_dogs,objective,"""golden retriever dog"", ""light golden or cream colored fur"", ""medium to long wavy coat"", ""soft feathered tail"",""long fur on chest and legs"",""floppy ears"",""broad head with gentle facial structure"",""medium to large sized retriever dog"", ""athletic but well balanced body""","""short fur dog"", ""dark colored fur"",""black or brown coat"",""tight curly coat"",""thin or hairless tail"",""pointed upright ears"",""wolf-like dog"",""small dog breed""",Feedback,1,stanford_dog_on_a_beach.png,1,1,1,1
+a dog on a beach,stanford_dogs,objective,"""golden retriever dog"", ""light golden or cream colored fur"", ""medium to long wavy coat"", ""soft feathered tail"",""long fur on chest and legs"",""floppy ears"",""broad head with gentle facial structure"",""medium to large sized retriever dog"", ""athletic but well balanced body""","""short fur dog"", ""dark colored fur"",""black or brown coat"",""tight curly coat"",""thin or hairless tail"",""pointed upright ears"",""wolf-like dog"",""small dog breed""",Feedback,2,stanford_dog_on_a_beach.png,1,1,1,1
+a dog on a beach,stanford_dogs,objective,"""golden retriever dog"", ""light golden or cream colored fur"", ""medium to long wavy coat"", ""soft feathered tail"",""long fur on chest and legs"",""floppy ears"",""broad head with gentle facial structure"",""medium to large sized retriever dog"", ""athletic but well balanced body""","""short fur dog"", ""dark colored fur"",""black or brown coat"",""tight curly coat"",""thin or hairless tail"",""pointed upright ears"",""wolf-like dog"",""small dog breed""",Feedback,3,stanford_dog_on_a_beach.png,1,1,1,1
+a dog on a beach,stanford_dogs,objective,"""golden retriever dog"", ""light golden or cream colored fur"", ""medium to long wavy coat"", ""soft feathered tail"",""long fur on chest and legs"",""floppy ears"",""broad head with gentle facial structure"",""medium to large sized retriever dog"", ""athletic but well balanced body""","""short fur dog"", ""dark colored fur"",""black or brown coat"",""tight curly coat"",""thin or hairless tail"",""pointed upright ears"",""wolf-like dog"",""small dog breed""",Feedback,4,stanford_dog_on_a_beach.png,1,1,1,1
+a dog on a beach,stanford_dogs,objective,"""golden retriever dog"", ""light golden or cream colored fur"", ""medium to long wavy coat"", ""soft feathered tail"",""long fur on chest and legs"",""floppy ears"",""broad head with gentle facial structure"",""medium to large sized retriever dog"", ""athletic but well balanced body""","""short fur dog"", ""dark colored fur"",""black or brown coat"",""tight curly coat"",""thin or hairless tail"",""pointed upright ears"",""wolf-like dog"",""small dog breed""",Feedback,5,stanford_dog_on_a_beach.png,1,1,1,1
+a dog on a beach,stanford_dogs,objective,"""golden retriever dog"", ""light golden or cream colored fur"", ""medium to long wavy coat"", ""soft feathered tail"",""long fur on chest and legs"",""floppy ears"",""broad head with gentle facial structure"",""medium to large sized retriever dog"", ""athletic but well balanced body""","""short fur dog"", ""dark colored fur"",""black or brown coat"",""tight curly coat"",""thin or hairless tail"",""pointed upright ears"",""wolf-like dog"",""small dog breed""",Feedback,6,stanford_dog_on_a_beach.png,0,0,0,0
+a dog on a beach,stanford_dogs,objective,"""golden retriever dog"", ""light golden or cream colored fur"", ""medium to long wavy coat"", ""soft feathered tail"",""long fur on chest and legs"",""floppy ears"",""broad head with gentle facial structure"",""medium to large sized retriever dog"", ""athletic but well balanced body""","""short fur dog"", ""dark colored fur"",""black or brown coat"",""tight curly coat"",""thin or hairless tail"",""pointed upright ears"",""wolf-like dog"",""small dog breed""",Feedback,7,stanford_dog_on_a_beach.png,1,1,1,1
+a dog on a beach,stanford_dogs,objective,"""golden retriever dog"", ""light golden or cream colored fur"", ""medium to long wavy coat"", ""soft feathered tail"",""long fur on chest and legs"",""floppy ears"",""broad head with gentle facial structure"",""medium to large sized retriever dog"", ""athletic but well balanced body""","""short fur dog"", ""dark colored fur"",""black or brown coat"",""tight curly coat"",""thin or hairless tail"",""pointed upright ears"",""wolf-like dog"",""small dog breed""",Feedback,8,stanford_dog_on_a_beach.png,1,1,1,1
+a dog on a beach,stanford_dogs,objective,"""golden retriever dog"", ""light golden or cream colored fur"", ""medium to long wavy coat"", ""soft feathered tail"",""long fur on chest and legs"",""floppy ears"",""broad head with gentle facial structure"",""medium to large sized retriever dog"", ""athletic but well balanced body""","""short fur dog"", ""dark colored fur"",""black or brown coat"",""tight curly coat"",""thin or hairless tail"",""pointed upright ears"",""wolf-like dog"",""small dog breed""",Feedback,9,stanford_dog_on_a_beach.png,1,1,1,1
+a dog on a beach,stanford_dogs,objective,"""golden retriever dog"", ""light golden or cream colored fur"", ""medium to long wavy coat"", ""soft feathered tail"",""long fur on chest and legs"",""floppy ears"",""broad head with gentle facial structure"",""medium to large sized retriever dog"", ""athletic but well balanced body""","""short fur dog"", ""dark colored fur"",""black or brown coat"",""tight curly coat"",""thin or hairless tail"",""pointed upright ears"",""wolf-like dog"",""small dog breed""",Feedback,10,stanford_dog_on_a_beach.png,1,1,0,1
+a dog looking guilty,stanford_dogs,subjective,,,CLIP,1,stanford_dog_looking_guilty.png,1,0,0,0
+a dog looking guilty,stanford_dogs,subjective,,,CLIP,2,stanford_dog_looking_guilty.png,0,0,0,0
+a dog looking guilty,stanford_dogs,subjective,,,CLIP,3,stanford_dog_looking_guilty.png,0,0,0,0
+a dog looking guilty,stanford_dogs,subjective,,,CLIP,4,stanford_dog_looking_guilty.png,1,1,1,1
+a dog looking guilty,stanford_dogs,subjective,,,CLIP,5,stanford_dog_looking_guilty.png,1,1,1,1
+a dog looking guilty,stanford_dogs,subjective,,,CLIP,6,stanford_dog_looking_guilty.png,0,0,0,0
+a dog looking guilty,stanford_dogs,subjective,,,CLIP,7,stanford_dog_looking_guilty.png,1,1,1,1
+a dog looking guilty,stanford_dogs,subjective,,,CLIP,8,stanford_dog_looking_guilty.png,1,1,1,1
+a dog looking guilty,stanford_dogs,subjective,,,CLIP,9,stanford_dog_looking_guilty.png,1,1,1,1
+a dog looking guilty,stanford_dogs,subjective,,,CLIP,10,stanford_dog_looking_guilty.png,1,1,1,1
+a dog looking guilty,stanford_dogs,subjective,"""sad"", ""droopy"", ""ashamed"", ""looking down"", ""submissive""","""happy"", ""playful"", ""energetic"", ""excited""",Feedback,1,stanford_dog_looking_guilty.png,1,1,1,1
+a dog looking guilty,stanford_dogs,subjective,"""sad"", ""droopy"", ""ashamed"", ""looking down"", ""submissive""","""happy"", ""playful"", ""energetic"", ""excited""",Feedback,2,stanford_dog_looking_guilty.png,1,1,1,1
+a dog looking guilty,stanford_dogs,subjective,"""sad"", ""droopy"", ""ashamed"", ""looking down"", ""submissive""","""happy"", ""playful"", ""energetic"", ""excited""",Feedback,3,stanford_dog_looking_guilty.png,1,1,1,1
+a dog looking guilty,stanford_dogs,subjective,"""sad"", ""droopy"", ""ashamed"", ""looking down"", ""submissive""","""happy"", ""playful"", ""energetic"", ""excited""",Feedback,4,stanford_dog_looking_guilty.png,1,1,1,1
+a dog looking guilty,stanford_dogs,subjective,"""sad"", ""droopy"", ""ashamed"", ""looking down"", ""submissive""","""happy"", ""playful"", ""energetic"", ""excited""",Feedback,5,stanford_dog_looking_guilty.png,1,1,1,1
+a dog looking guilty,stanford_dogs,subjective,"""sad"", ""droopy"", ""ashamed"", ""looking down"", ""submissive""","""happy"", ""playful"", ""energetic"", ""excited""",Feedback,6,stanford_dog_looking_guilty.png,0,0,0,0
+a dog looking guilty,stanford_dogs,subjective,"""sad"", ""droopy"", ""ashamed"", ""looking down"", ""submissive""","""happy"", ""playful"", ""energetic"", ""excited""",Feedback,7,stanford_dog_looking_guilty.png,1,1,1,1
+a dog looking guilty,stanford_dogs,subjective,"""sad"", ""droopy"", ""ashamed"", ""looking down"", ""submissive""","""happy"", ""playful"", ""energetic"", ""excited""",Feedback,8,stanford_dog_looking_guilty.png,1,1,1,1
+a dog looking guilty,stanford_dogs,subjective,"""sad"", ""droopy"", ""ashamed"", ""looking down"", ""submissive""","""happy"", ""playful"", ""energetic"", ""excited""",Feedback,9,stanford_dog_looking_guilty.png,1,1,1,1
+a dog looking guilty,stanford_dogs,subjective,"""sad"", ""droopy"", ""ashamed"", ""looking down"", ""submissive""","""happy"", ""playful"", ""energetic"", ""excited""",Feedback,10,stanford_dog_looking_guilty.png,1,1,1,1
+a friendly looking dog,stanford_dogs,subjective,,,CLIP,1,stanford_friendly_looking_dog.png,1,0,0,0
+a friendly looking dog,stanford_dogs,subjective,,,CLIP,2,stanford_friendly_looking_dog.png,0,0,0,0
+a friendly looking dog,stanford_dogs,subjective,,,CLIP,3,stanford_friendly_looking_dog.png,1,1,1,1
+a friendly looking dog,stanford_dogs,subjective,,,CLIP,4,stanford_friendly_looking_dog.png,0,0,0,0
+a friendly looking dog,stanford_dogs,subjective,,,CLIP,5,stanford_friendly_looking_dog.png,1,1,1,1
+a friendly looking dog,stanford_dogs,subjective,,,CLIP,6,stanford_friendly_looking_dog.png,1,0,0,0
+a friendly looking dog,stanford_dogs,subjective,,,CLIP,7,stanford_friendly_looking_dog.png,0,0,1,0
+a friendly looking dog,stanford_dogs,subjective,,,CLIP,8,stanford_friendly_looking_dog.png,1,1,0,1
+a friendly looking dog,stanford_dogs,subjective,,,CLIP,9,stanford_friendly_looking_dog.png,1,1,1,1
+a friendly looking dog,stanford_dogs,subjective,,,CLIP,10,stanford_friendly_looking_dog.png,0,0,0,0
+a friendly looking dog,stanford_dogs,subjective,"""happy"", ""playful"", ""gentle"", ""cute"", ""adorable"", ""wagging tail""","""aggressive"", ""scary"", ""angry"", ""mean"", ""threatening""",Feedback,1,stanford_friendly_looking_dog.png,1,1,1,1
+a friendly looking dog,stanford_dogs,subjective,"""happy"", ""playful"", ""gentle"", ""cute"", ""adorable"", ""wagging tail""","""aggressive"", ""scary"", ""angry"", ""mean"", ""threatening""",Feedback,2,stanford_friendly_looking_dog.png,1,1,1,1
+a friendly looking dog,stanford_dogs,subjective,"""happy"", ""playful"", ""gentle"", ""cute"", ""adorable"", ""wagging tail""","""aggressive"", ""scary"", ""angry"", ""mean"", ""threatening""",Feedback,3,stanford_friendly_looking_dog.png,0,0,1,0
+a friendly looking dog,stanford_dogs,subjective,"""happy"", ""playful"", ""gentle"", ""cute"", ""adorable"", ""wagging tail""","""aggressive"", ""scary"", ""angry"", ""mean"", ""threatening""",Feedback,4,stanford_friendly_looking_dog.png,0,0,0,0
+a friendly looking dog,stanford_dogs,subjective,"""happy"", ""playful"", ""gentle"", ""cute"", ""adorable"", ""wagging tail""","""aggressive"", ""scary"", ""angry"", ""mean"", ""threatening""",Feedback,5,stanford_friendly_looking_dog.png,1,1,1,1
+a friendly looking dog,stanford_dogs,subjective,"""happy"", ""playful"", ""gentle"", ""cute"", ""adorable"", ""wagging tail""","""aggressive"", ""scary"", ""angry"", ""mean"", ""threatening""",Feedback,6,stanford_friendly_looking_dog.png,1,1,0,1
+a friendly looking dog,stanford_dogs,subjective,"""happy"", ""playful"", ""gentle"", ""cute"", ""adorable"", ""wagging tail""","""aggressive"", ""scary"", ""angry"", ""mean"", ""threatening""",Feedback,7,stanford_friendly_looking_dog.png,1,1,1,1
+a friendly looking dog,stanford_dogs,subjective,"""happy"", ""playful"", ""gentle"", ""cute"", ""adorable"", ""wagging tail""","""aggressive"", ""scary"", ""angry"", ""mean"", ""threatening""",Feedback,8,stanford_friendly_looking_dog.png,1,1,1,1
+a friendly looking dog,stanford_dogs,subjective,"""happy"", ""playful"", ""gentle"", ""cute"", ""adorable"", ""wagging tail""","""aggressive"", ""scary"", ""angry"", ""mean"", ""threatening""",Feedback,9,stanford_friendly_looking_dog.png,1,1,1,1
+a friendly looking dog,stanford_dogs,subjective,"""happy"", ""playful"", ""gentle"", ""cute"", ""adorable"", ""wagging tail""","""aggressive"", ""scary"", ""angry"", ""mean"", ""threatening""",Feedback,10,stanford_friendly_looking_dog.png,1,1,0,1
+an agressive looking dog,stanford_dogs,subjective,,,CLIP,1,stanford_angry_dog.png,0,0,0,0
+an agressive looking dog,stanford_dogs,subjective,,,CLIP,2,stanford_angry_dog.png,0,0,0,0
+an agressive looking dog,stanford_dogs,subjective,,,CLIP,3,stanford_angry_dog.png,0,0,0,0
+an agressive looking dog,stanford_dogs,subjective,,,CLIP,4,stanford_angry_dog.png,1,1,1,1
+an agressive looking dog,stanford_dogs,subjective,,,CLIP,5,stanford_angry_dog.png,0,0,0,0
+an agressive looking dog,stanford_dogs,subjective,,,CLIP,6,stanford_angry_dog.png,0,0,0,0
+an agressive looking dog,stanford_dogs,subjective,,,CLIP,7,stanford_angry_dog.png,0,0,0,0
+an agressive looking dog,stanford_dogs,subjective,,,CLIP,8,stanford_angry_dog.png,1,1,1,1
+an agressive looking dog,stanford_dogs,subjective,,,CLIP,9,stanford_angry_dog.png,0,0,0,0
+an agressive looking dog,stanford_dogs,subjective,,,CLIP,10,stanford_angry_dog.png,1,0,0,0
+an agressive looking dog,stanford_dogs,subjective,"""angry"", ""fierce"", ""showing teeth"", ""growling"", ""intense"", ""tense""","""friendly"", ""calm"", ""relaxed"", ""playful"", ""gentle""",Feedback,1,stanford_angry_dog.png,1,1,1,1
+an agressive looking dog,stanford_dogs,subjective,"""angry"", ""fierce"", ""showing teeth"", ""growling"", ""intense"", ""tense""","""friendly"", ""calm"", ""relaxed"", ""playful"", ""gentle""",Feedback,2,stanford_angry_dog.png,1,1,1,1
+an agressive looking dog,stanford_dogs,subjective,"""angry"", ""fierce"", ""showing teeth"", ""growling"", ""intense"", ""tense""","""friendly"", ""calm"", ""relaxed"", ""playful"", ""gentle""",Feedback,3,stanford_angry_dog.png,1,1,1,1
+an agressive looking dog,stanford_dogs,subjective,"""angry"", ""fierce"", ""showing teeth"", ""growling"", ""intense"", ""tense""","""friendly"", ""calm"", ""relaxed"", ""playful"", ""gentle""",Feedback,4,stanford_angry_dog.png,1,1,1,1
+an agressive looking dog,stanford_dogs,subjective,"""angry"", ""fierce"", ""showing teeth"", ""growling"", ""intense"", ""tense""","""friendly"", ""calm"", ""relaxed"", ""playful"", ""gentle""",Feedback,5,stanford_angry_dog.png,0,0,0,0
+an agressive looking dog,stanford_dogs,subjective,"""angry"", ""fierce"", ""showing teeth"", ""growling"", ""intense"", ""tense""","""friendly"", ""calm"", ""relaxed"", ""playful"", ""gentle""",Feedback,6,stanford_angry_dog.png,1,0,0,0
+an agressive looking dog,stanford_dogs,subjective,"""angry"", ""fierce"", ""showing teeth"", ""growling"", ""intense"", ""tense""","""friendly"", ""calm"", ""relaxed"", ""playful"", ""gentle""",Feedback,7,stanford_angry_dog.png,0,0,0,0
+an agressive looking dog,stanford_dogs,subjective,"""angry"", ""fierce"", ""showing teeth"", ""growling"", ""intense"", ""tense""","""friendly"", ""calm"", ""relaxed"", ""playful"", ""gentle""",Feedback,8,stanford_angry_dog.png,1,1,1,1
+an agressive looking dog,stanford_dogs,subjective,"""angry"", ""fierce"", ""showing teeth"", ""growling"", ""intense"", ""tense""","""friendly"", ""calm"", ""relaxed"", ""playful"", ""gentle""",Feedback,9,stanford_angry_dog.png,0,0,0,0
+an agressive looking dog,stanford_dogs,subjective,"""angry"", ""fierce"", ""showing teeth"", ""growling"", ""intense"", ""tense""","""friendly"", ""calm"", ""relaxed"", ""playful"", ""gentle""",Feedback,10,stanford_angry_dog.png,0,0,0,0
+a nervous looking dog,stanford_dogs,subjective,,,CLIP,1,stanford_nervous_dog.png,0,0,0,0
+a nervous looking dog,stanford_dogs,subjective,,,CLIP,2,stanford_nervous_dog.png,0,0,1,0
+a nervous looking dog,stanford_dogs,subjective,,,CLIP,3,stanford_nervous_dog.png,1,1,1,1
+a nervous looking dog,stanford_dogs,subjective,,,CLIP,4,stanford_nervous_dog.png,0,0,0,0
+a nervous looking dog,stanford_dogs,subjective,,,CLIP,5,stanford_nervous_dog.png,0,0,0,0
+a nervous looking dog,stanford_dogs,subjective,,,CLIP,6,stanford_nervous_dog.png,0,0,0,0
+a nervous looking dog,stanford_dogs,subjective,,,CLIP,7,stanford_nervous_dog.png,0,0,1,0
+a nervous looking dog,stanford_dogs,subjective,,,CLIP,8,stanford_nervous_dog.png,0,0,0,0
+a nervous looking dog,stanford_dogs,subjective,,,CLIP,9,stanford_nervous_dog.png,0,0,0,0
+a nervous looking dog,stanford_dogs,subjective,,,CLIP,10,stanford_nervous_dog.png,0,0,0,0
+a nervous looking dog,stanford_dogs,subjective,"""anxious"", ""scared"", ""worried"", ""trembling"", ""wide eyes"", ""ears back""","""confident"", ""relaxed"", ""happy"", ""calm"", ""bold""",Feedback,1,stanford_nervous_dog.png,1,1,1,1
+a nervous looking dog,stanford_dogs,subjective,"""anxious"", ""scared"", ""worried"", ""trembling"", ""wide eyes"", ""ears back""","""confident"", ""relaxed"", ""happy"", ""calm"", ""bold""",Feedback,2,stanford_nervous_dog.png,0,1,1,1
+a nervous looking dog,stanford_dogs,subjective,"""anxious"", ""scared"", ""worried"", ""trembling"", ""wide eyes"", ""ears back""","""confident"", ""relaxed"", ""happy"", ""calm"", ""bold""",Feedback,3,stanford_nervous_dog.png,0,0,0,0
+a nervous looking dog,stanford_dogs,subjective,"""anxious"", ""scared"", ""worried"", ""trembling"", ""wide eyes"", ""ears back""","""confident"", ""relaxed"", ""happy"", ""calm"", ""bold""",Feedback,4,stanford_nervous_dog.png,0,0,0,0
+a nervous looking dog,stanford_dogs,subjective,"""anxious"", ""scared"", ""worried"", ""trembling"", ""wide eyes"", ""ears back""","""confident"", ""relaxed"", ""happy"", ""calm"", ""bold""",Feedback,5,stanford_nervous_dog.png,0,0,0,0
+a nervous looking dog,stanford_dogs,subjective,"""anxious"", ""scared"", ""worried"", ""trembling"", ""wide eyes"", ""ears back""","""confident"", ""relaxed"", ""happy"", ""calm"", ""bold""",Feedback,6,stanford_nervous_dog.png,0,0,0,0
+a nervous looking dog,stanford_dogs,subjective,"""anxious"", ""scared"", ""worried"", ""trembling"", ""wide eyes"", ""ears back""","""confident"", ""relaxed"", ""happy"", ""calm"", ""bold""",Feedback,7,stanford_nervous_dog.png,0,1,1,1
+a nervous looking dog,stanford_dogs,subjective,"""anxious"", ""scared"", ""worried"", ""trembling"", ""wide eyes"", ""ears back""","""confident"", ""relaxed"", ""happy"", ""calm"", ""bold""",Feedback,8,stanford_nervous_dog.png,0,1,1,1
+a nervous looking dog,stanford_dogs,subjective,"""anxious"", ""scared"", ""worried"", ""trembling"", ""wide eyes"", ""ears back""","""confident"", ""relaxed"", ""happy"", ""calm"", ""bold""",Feedback,9,stanford_nervous_dog.png,0,1,1,1
+a nervous looking dog,stanford_dogs,subjective,"""anxious"", ""scared"", ""worried"", ""trembling"", ""wide eyes"", ""ears back""","""confident"", ""relaxed"", ""happy"", ""calm"", ""bold""",Feedback,10,stanford_nervous_dog.png,1,1,1,1
+a hyperactive dog,stanford_dogs,subjective,,,CLIP,1,stanford_hyperactive_dog.png,1,1,1,1
+a hyperactive dog,stanford_dogs,subjective,,,CLIP,2,stanford_hyperactive_dog.png,1,1,1,1
+a hyperactive dog,stanford_dogs,subjective,,,CLIP,3,stanford_hyperactive_dog.png,1,1,1,1
+a hyperactive dog,stanford_dogs,subjective,,,CLIP,4,stanford_hyperactive_dog.png,1,1,0,1
+a hyperactive dog,stanford_dogs,subjective,,,CLIP,5,stanford_hyperactive_dog.png,1,1,1,1
+a hyperactive dog,stanford_dogs,subjective,,,CLIP,6,stanford_hyperactive_dog.png,0,0,0,0
+a hyperactive dog,stanford_dogs,subjective,,,CLIP,7,stanford_hyperactive_dog.png,1,1,1,1
+a hyperactive dog,stanford_dogs,subjective,,,CLIP,8,stanford_hyperactive_dog.png,1,1,1,1
+a hyperactive dog,stanford_dogs,subjective,,,CLIP,9,stanford_hyperactive_dog.png,0,0,0,0
+a hyperactive dog,stanford_dogs,subjective,,,CLIP,10,stanford_hyperactive_dog.png,1,1,0,1
+a hyperactive dog,stanford_dogs,subjective,"""hyperactive"",""energetic"",""playful"",""excited"",""running"",""jumping"",""restless"",""high energy""","""calm"",""relaxed"",""lazy"",""sleepy"",""still"",""sitting"",""lying down"",""peaceful""",Feedback,1,stanford_hyperactive_dog.png,1,1,1,1
+a hyperactive dog,stanford_dogs,subjective,"""hyperactive"",""energetic"",""playful"",""excited"",""running"",""jumping"",""restless"",""high energy""","""calm"",""relaxed"",""lazy"",""sleepy"",""still"",""sitting"",""lying down"",""peaceful""",Feedback,2,stanford_hyperactive_dog.png,0,1,1,1
+a hyperactive dog,stanford_dogs,subjective,"""hyperactive"",""energetic"",""playful"",""excited"",""running"",""jumping"",""restless"",""high energy""","""calm"",""relaxed"",""lazy"",""sleepy"",""still"",""sitting"",""lying down"",""peaceful""",Feedback,3,stanford_hyperactive_dog.png,1,0,0,0
+a hyperactive dog,stanford_dogs,subjective,"""hyperactive"",""energetic"",""playful"",""excited"",""running"",""jumping"",""restless"",""high energy""","""calm"",""relaxed"",""lazy"",""sleepy"",""still"",""sitting"",""lying down"",""peaceful""",Feedback,4,stanford_hyperactive_dog.png,1,1,1,1
+a hyperactive dog,stanford_dogs,subjective,"""hyperactive"",""energetic"",""playful"",""excited"",""running"",""jumping"",""restless"",""high energy""","""calm"",""relaxed"",""lazy"",""sleepy"",""still"",""sitting"",""lying down"",""peaceful""",Feedback,5,stanford_hyperactive_dog.png,1,1,1,1
+a hyperactive dog,stanford_dogs,subjective,"""hyperactive"",""energetic"",""playful"",""excited"",""running"",""jumping"",""restless"",""high energy""","""calm"",""relaxed"",""lazy"",""sleepy"",""still"",""sitting"",""lying down"",""peaceful""",Feedback,6,stanford_hyperactive_dog.png,1,1,1,1
+a hyperactive dog,stanford_dogs,subjective,"""hyperactive"",""energetic"",""playful"",""excited"",""running"",""jumping"",""restless"",""high energy""","""calm"",""relaxed"",""lazy"",""sleepy"",""still"",""sitting"",""lying down"",""peaceful""",Feedback,7,stanford_hyperactive_dog.png,1,1,1,1
+a hyperactive dog,stanford_dogs,subjective,"""hyperactive"",""energetic"",""playful"",""excited"",""running"",""jumping"",""restless"",""high energy""","""calm"",""relaxed"",""lazy"",""sleepy"",""still"",""sitting"",""lying down"",""peaceful""",Feedback,8,stanford_hyperactive_dog.png,1,1,1,1
+a hyperactive dog,stanford_dogs,subjective,"""hyperactive"",""energetic"",""playful"",""excited"",""running"",""jumping"",""restless"",""high energy""","""calm"",""relaxed"",""lazy"",""sleepy"",""still"",""sitting"",""lying down"",""peaceful""",Feedback,9,stanford_hyperactive_dog.png,1,1,1,1
+a hyperactive dog,stanford_dogs,subjective,"""hyperactive"",""energetic"",""playful"",""excited"",""running"",""jumping"",""restless"",""high energy""","""calm"",""relaxed"",""lazy"",""sleepy"",""still"",""sitting"",""lying down"",""peaceful""",Feedback,10,stanford_hyperactive_dog.png,1,1,1,1
+a person riding a bicycle,flicker,objective,,,CLIP,1,flickr_person_riding_bicycle.png,0,0,0,0
+a person riding a bicycle,flicker,objective,,,CLIP,2,flickr_person_riding_bicycle.png,1,1,1,1
+a person riding a bicycle,flicker,objective,,,CLIP,3,flickr_person_riding_bicycle.png,1,1,1,1
+a person riding a bicycle,flicker,objective,,,CLIP,4,flickr_person_riding_bicycle.png,1,1,1,1
+a person riding a bicycle,flicker,objective,,,CLIP,5,flickr_person_riding_bicycle.png,1,1,1,1
+a person riding a bicycle,flicker,objective,,,CLIP,6,flickr_person_riding_bicycle.png,1,1,1,1
+a person riding a bicycle,flicker,objective,,,CLIP,7,flickr_person_riding_bicycle.png,1,1,1,1
+a person riding a bicycle,flicker,objective,,,CLIP,8,flickr_person_riding_bicycle.png,1,1,1,1
+a person riding a bicycle,flicker,objective,,,CLIP,9,flickr_person_riding_bicycle.png,0,0,0,0
+a person riding a bicycle,flicker,objective,,,CLIP,10,flickr_person_riding_bicycle.png,0,0,0,0
+a person riding a bicycle,flicker,objective,"riding, bicycle","sitting, posing",Feedback,1,flickr_person_riding_bicycle.png,1,1,1,1
+a person riding a bicycle,flicker,objective,"riding, bicycle","sitting, posing",Feedback,2,flickr_person_riding_bicycle.png,0,0,0,0
+a person riding a bicycle,flicker,objective,"riding, bicycle","sitting, posing",Feedback,3,flickr_person_riding_bicycle.png,1,1,1,1
+a person riding a bicycle,flicker,objective,"riding, bicycle","sitting, posing",Feedback,4,flickr_person_riding_bicycle.png,1,1,1,1
+a person riding a bicycle,flicker,objective,"riding, bicycle","sitting, posing",Feedback,5,flickr_person_riding_bicycle.png,1,1,1,1
+a person riding a bicycle,flicker,objective,"riding, bicycle","sitting, posing",Feedback,6,flickr_person_riding_bicycle.png,1,1,1,1
+a person riding a bicycle,flicker,objective,"riding, bicycle","sitting, posing",Feedback,7,flickr_person_riding_bicycle.png,1,1,1,1
+a person riding a bicycle,flicker,objective,"riding, bicycle","sitting, posing",Feedback,8,flickr_person_riding_bicycle.png,1,1,1,1
+a person riding a bicycle,flicker,objective,"riding, bicycle","sitting, posing",Feedback,9,flickr_person_riding_bicycle.png,0,0,0,0
+a person riding a bicycle,flicker,objective,"riding, bicycle","sitting, posing",Feedback,10,flickr_person_riding_bicycle.png,1,1,1,1
+a dog playing,flicker,objective,,,CLIP,1,flickr_dog_playing.png,1,1,1,1
+a dog playing,flicker,objective,,,CLIP,2,flickr_dog_playing.png,1,1,1,1
+a dog playing,flicker,objective,,,CLIP,3,flickr_dog_playing.png,1,1,1,1
+a dog playing,flicker,objective,,,CLIP,4,flickr_dog_playing.png,1,1,1,1
+a dog playing,flicker,objective,,,CLIP,5,flickr_dog_playing.png,0,0,0,0
+a dog playing,flicker,objective,,,CLIP,6,flickr_dog_playing.png,1,1,1,1
+a dog playing,flicker,objective,,,CLIP,7,flickr_dog_playing.png,0,0,0,0
+a dog playing,flicker,objective,,,CLIP,8,flickr_dog_playing.png,1,1,1,1
+a dog playing,flicker,objective,,,CLIP,9,flickr_dog_playing.png,1,1,1,1
+a dog playing,flicker,objective,,,CLIP,10,flickr_dog_playing.png,1,1,1,1
+a dog playing,flicker,objective,"running, outdoor, energetic","sitting, posing, calm",Feedback,1,flickr_dog_playing.png,1,1,1,1
+a dog playing,flicker,objective,"running, outdoor, energetic","sitting, posing, calm",Feedback,2,flickr_dog_playing.png,1,1,1,1
+a dog playing,flicker,objective,"running, outdoor, energetic","sitting, posing, calm",Feedback,3,flickr_dog_playing.png,1,1,1,1
+a dog playing,flicker,objective,"running, outdoor, energetic","sitting, posing, calm",Feedback,4,flickr_dog_playing.png,1,1,1,1
+a dog playing,flicker,objective,"running, outdoor, energetic","sitting, posing, calm",Feedback,5,flickr_dog_playing.png,1,1,1,1
+a dog playing,flicker,objective,"running, outdoor, energetic","sitting, posing, calm",Feedback,6,flickr_dog_playing.png,1,1,1,1
+a dog playing,flicker,objective,"running, outdoor, energetic","sitting, posing, calm",Feedback,7,flickr_dog_playing.png,1,1,1,1
+a dog playing,flicker,objective,"running, outdoor, energetic","sitting, posing, calm",Feedback,8,flickr_dog_playing.png,1,1,1,1
+a dog playing,flicker,objective,"running, outdoor, energetic","sitting, posing, calm",Feedback,9,flickr_dog_playing.png,0,0,0,0
+a dog playing,flicker,objective,"running, outdoor, energetic","sitting, posing, calm",Feedback,10,flickr_dog_playing.png,1,1,1,1
+an exciting action scene,flicker,subjective,,,CLIP,1,flickr_exciting_action_scene.png,1,1,1,1
+an exciting action scene,flicker,subjective,,,CLIP,2,flickr_exciting_action_scene.png,1,1,1,1
+an exciting action scene,flicker,subjective,,,CLIP,3,flickr_exciting_action_scene.png,0,1,1,1
+an exciting action scene,flicker,subjective,,,CLIP,4,flickr_exciting_action_scene.png,1,1,1,1
+an exciting action scene,flicker,subjective,,,CLIP,5,flickr_exciting_action_scene.png,1,1,1,1
+an exciting action scene,flicker,subjective,,,CLIP,6,flickr_exciting_action_scene.png,0,0,0,0
+an exciting action scene,flicker,subjective,,,CLIP,7,flickr_exciting_action_scene.png,0,0,0,0
+an exciting action scene,flicker,subjective,,,CLIP,8,flickr_exciting_action_scene.png,0,1,1,1
+an exciting action scene,flicker,subjective,,,CLIP,9,flickr_exciting_action_scene.png,0,1,1,1
+an exciting action scene,flicker,subjective,,,CLIP,10,flickr_exciting_action_scene.png,1,1,1,1
+an exciting action scene,flicker,subjective,"sports, jumping, running, movement","standing, sitting, calm, still, animals, animal, dog, dogs, cat, horse",Feedback,1,flickr_exciting_action_scene.png,1,1,1,1
+an exciting action scene,flicker,subjective,"sports, jumping, running, movement","standing, sitting, calm, still, animals, animal, dog, dogs, cat, horse",Feedback,2,flickr_exciting_action_scene.png,1,1,0,1
+an exciting action scene,flicker,subjective,"sports, jumping, running, movement","standing, sitting, calm, still, animals, animal, dog, dogs, cat, horse",Feedback,3,flickr_exciting_action_scene.png,1,1,1,1
+an exciting action scene,flicker,subjective,"sports, jumping, running, movement","standing, sitting, calm, still, animals, animal, dog, dogs, cat, horse",Feedback,4,flickr_exciting_action_scene.png,0,0,0,0
+an exciting action scene,flicker,subjective,"sports, jumping, running, movement","standing, sitting, calm, still, animals, animal, dog, dogs, cat, horse",Feedback,5,flickr_exciting_action_scene.png,1,1,1,1
+an exciting action scene,flicker,subjective,"sports, jumping, running, movement","standing, sitting, calm, still, animals, animal, dog, dogs, cat, horse",Feedback,6,flickr_exciting_action_scene.png,1,1,1,1
+an exciting action scene,flicker,subjective,"sports, jumping, running, movement","standing, sitting, calm, still, animals, animal, dog, dogs, cat, horse",Feedback,7,flickr_exciting_action_scene.png,1,1,1,1
+an exciting action scene,flicker,subjective,"sports, jumping, running, movement","standing, sitting, calm, still, animals, animal, dog, dogs, cat, horse",Feedback,8,flickr_exciting_action_scene.png,1,1,1,1
+an exciting action scene,flicker,subjective,"sports, jumping, running, movement","standing, sitting, calm, still, animals, animal, dog, dogs, cat, horse",Feedback,9,flickr_exciting_action_scene.png,1,1,1,1
+an exciting action scene,flicker,subjective,"sports, jumping, running, movement","standing, sitting, calm, still, animals, animal, dog, dogs, cat, horse",Feedback,10,flickr_exciting_action_scene.png,1,1,1,1
+a joyful moment,flicker,subjective,,,CLIP,1,flickr_joyful_moment.png,1,1,1,1
+a joyful moment,flicker,subjective,,,CLIP,2,flickr_joyful_moment.png,1,1,1,1
+a joyful moment,flicker,subjective,,,CLIP,3,flickr_joyful_moment.png,0,0,0,0
+a joyful moment,flicker,subjective,,,CLIP,4,flickr_joyful_moment.png,1,1,1,1
+a joyful moment,flicker,subjective,,,CLIP,5,flickr_joyful_moment.png,0,0,0,0
+a joyful moment,flicker,subjective,,,CLIP,6,flickr_joyful_moment.png,1,1,1,1
+a joyful moment,flicker,subjective,,,CLIP,7,flickr_joyful_moment.png,1,1,1,1
+a joyful moment,flicker,subjective,,,CLIP,8,flickr_joyful_moment.png,1,1,1,1
+a joyful moment,flicker,subjective,,,CLIP,9,flickr_joyful_moment.png,0,1,1,1
+a joyful moment,flicker,subjective,,,CLIP,10,flickr_joyful_moment.png,1,1,1,1
+a joyful moment,flicker,subjective,"happy, smiling, scenery, celebration","sad, boring, animal, dog, sitting, football, american football, running, car",Feedback,1,flickr_joyful_moment.png,1,1,1,1
+a joyful moment,flicker,subjective,"happy, smiling, scenery, celebration","sad, boring, animal, dog, sitting, football, american football, running, car",Feedback,2,flickr_joyful_moment.png,0,0,1,0
+a joyful moment,flicker,subjective,"happy, smiling, scenery, celebration","sad, boring, animal, dog, sitting, football, american football, running, car",Feedback,3,flickr_joyful_moment.png,1,1,1,1
+a joyful moment,flicker,subjective,"happy, smiling, scenery, celebration","sad, boring, animal, dog, sitting, football, american football, running, car",Feedback,4,flickr_joyful_moment.png,1,1,1,1
+a joyful moment,flicker,subjective,"happy, smiling, scenery, celebration","sad, boring, animal, dog, sitting, football, american football, running, car",Feedback,5,flickr_joyful_moment.png,1,1,1,1
+a joyful moment,flicker,subjective,"happy, smiling, scenery, celebration","sad, boring, animal, dog, sitting, football, american football, running, car",Feedback,6,flickr_joyful_moment.png,1,1,1,1
+a joyful moment,flicker,subjective,"happy, smiling, scenery, celebration","sad, boring, animal, dog, sitting, football, american football, running, car",Feedback,7,flickr_joyful_moment.png,1,1,1,1
+a joyful moment,flicker,subjective,"happy, smiling, scenery, celebration","sad, boring, animal, dog, sitting, football, american football, running, car",Feedback,8,flickr_joyful_moment.png,0,0,0,0
+a joyful moment,flicker,subjective,"happy, smiling, scenery, celebration","sad, boring, animal, dog, sitting, football, american football, running, car",Feedback,9,flickr_joyful_moment.png,1,1,1,1
+a joyful moment,flicker,subjective,"happy, smiling, scenery, celebration","sad, boring, animal, dog, sitting, football, american football, running, car",Feedback,10,flickr_joyful_moment.png,1,1,1,1
+kid having fun,flicker,subjective,,,CLIP,1,flickr_kid_having_fun.png,1,1,1,1
+kid having fun,flicker,subjective,,,CLIP,2,flickr_kid_having_fun.png,0,0,1,0
+kid having fun,flicker,subjective,,,CLIP,3,flickr_kid_having_fun.png,1,1,1,1
+kid having fun,flicker,subjective,,,CLIP,4,flickr_kid_having_fun.png,1,1,1,1
+kid having fun,flicker,subjective,,,CLIP,5,flickr_kid_having_fun.png,0,0,0,0
+kid having fun,flicker,subjective,,,CLIP,6,flickr_kid_having_fun.png,1,1,1,1
+kid having fun,flicker,subjective,,,CLIP,7,flickr_kid_having_fun.png,1,1,1,1
+kid having fun,flicker,subjective,,,CLIP,8,flickr_kid_having_fun.png,0,0,0,0
+kid having fun,flicker,subjective,,,CLIP,9,flickr_kid_having_fun.png,0,0,0,0
+kid having fun,flicker,subjective,,,CLIP,10,flickr_kid_having_fun.png,1,1,1,1
+kid having fun,flicker,subjective,"happy, smiling, active, kids, children","sad, standing, adults, adult, sitting, car, driving",Feedback,1,flickr_kid_having_fun.png,1,1,1,1
+kid having fun,flicker,subjective,"happy, smiling, active, kids, children","sad, standing, adults, adult, sitting, car, driving",Feedback,2,flickr_kid_having_fun.png,1,1,1,1
+kid having fun,flicker,subjective,"happy, smiling, active, kids, children","sad, standing, adults, adult, sitting, car, driving",Feedback,3,flickr_kid_having_fun.png,0,0,0,0
+kid having fun,flicker,subjective,"happy, smiling, active, kids, children","sad, standing, adults, adult, sitting, car, driving",Feedback,4,flickr_kid_having_fun.png,1,1,1,1
+kid having fun,flicker,subjective,"happy, smiling, active, kids, children","sad, standing, adults, adult, sitting, car, driving",Feedback,5,flickr_kid_having_fun.png,1,1,1,1
+kid having fun,flicker,subjective,"happy, smiling, active, kids, children","sad, standing, adults, adult, sitting, car, driving",Feedback,6,flickr_kid_having_fun.png,1,1,1,1
+kid having fun,flicker,subjective,"happy, smiling, active, kids, children","sad, standing, adults, adult, sitting, car, driving",Feedback,7,flickr_kid_having_fun.png,1,1,1,1
+kid having fun,flicker,subjective,"happy, smiling, active, kids, children","sad, standing, adults, adult, sitting, car, driving",Feedback,8,flickr_kid_having_fun.png,1,1,1,1
+kid having fun,flicker,subjective,"happy, smiling, active, kids, children","sad, standing, adults, adult, sitting, car, driving",Feedback,9,flickr_kid_having_fun.png,1,1,1,1
+kid having fun,flicker,subjective,"happy, smiling, active, kids, children","sad, standing, adults, adult, sitting, car, driving",Feedback,10,flickr_kid_having_fun.png,1,1,1,1
+a peaceful scene,flicker,subjective,,,CLIP,1,flickr_peaceful_scene.png,1,1,1,1
+a peaceful scene,flicker,subjective,,,CLIP,2,flickr_peaceful_scene.png,1,1,1,1
+a peaceful scene,flicker,subjective,,,CLIP,3,flickr_peaceful_scene.png,1,1,1,1
+a peaceful scene,flicker,subjective,,,CLIP,4,flickr_peaceful_scene.png,1,1,1,1
+a peaceful scene,flicker,subjective,,,CLIP,5,flickr_peaceful_scene.png,1,1,1,1
+a peaceful scene,flicker,subjective,,,CLIP,6,flickr_peaceful_scene.png,1,1,1,1
+a peaceful scene,flicker,subjective,,,CLIP,7,flickr_peaceful_scene.png,1,1,0,1
+a peaceful scene,flicker,subjective,,,CLIP,8,flickr_peaceful_scene.png,1,1,1,1
+a peaceful scene,flicker,subjective,,,CLIP,9,flickr_peaceful_scene.png,0,0,1,0
+a peaceful scene,flicker,subjective,,,CLIP,10,flickr_peaceful_scene.png,1,1,1,1
+a peaceful scene,flicker,subjective,"peace, calm, scenery, still, quiet","exciting, action, sports, jumping, movement, dark, crowd, shop",Feedback,1,flickr_peaceful_scene.png,1,1,1,1
+a peaceful scene,flicker,subjective,"peace, calm, scenery, still, quiet","exciting, action, sports, jumping, movement, dark, crowd, shop",Feedback,2,flickr_peaceful_scene.png,1,1,1,1
+a peaceful scene,flicker,subjective,"peace, calm, scenery, still, quiet","exciting, action, sports, jumping, movement, dark, crowd, shop",Feedback,3,flickr_peaceful_scene.png,1,1,1,1
+a peaceful scene,flicker,subjective,"peace, calm, scenery, still, quiet","exciting, action, sports, jumping, movement, dark, crowd, shop",Feedback,4,flickr_peaceful_scene.png,1,1,1,1
+a peaceful scene,flicker,subjective,"peace, calm, scenery, still, quiet","exciting, action, sports, jumping, movement, dark, crowd, shop",Feedback,5,flickr_peaceful_scene.png,1,1,1,1
+a peaceful scene,flicker,subjective,"peace, calm, scenery, still, quiet","exciting, action, sports, jumping, movement, dark, crowd, shop",Feedback,6,flickr_peaceful_scene.png,1,1,1,1
+a peaceful scene,flicker,subjective,"peace, calm, scenery, still, quiet","exciting, action, sports, jumping, movement, dark, crowd, shop",Feedback,7,flickr_peaceful_scene.png,1,1,1,1
+a peaceful scene,flicker,subjective,"peace, calm, scenery, still, quiet","exciting, action, sports, jumping, movement, dark, crowd, shop",Feedback,8,flickr_peaceful_scene.png,1,1,1,1
+a peaceful scene,flicker,subjective,"peace, calm, scenery, still, quiet","exciting, action, sports, jumping, movement, dark, crowd, shop",Feedback,9,flickr_peaceful_scene.png,1,1,1,1
+a peaceful scene,flicker,subjective,"peace, calm, scenery, still, quiet","exciting, action, sports, jumping, movement, dark, crowd, shop",Feedback,10,flickr_peaceful_scene.png,1,1,1,1
+a photo with motion blur,flicker,subjective,,,CLIP,1,flickr_photo_with_motion_blur.png,1,1,1,1
+a photo with motion blur,flicker,subjective,,,CLIP,2,flickr_photo_with_motion_blur.png,1,1,1,1
+a photo with motion blur,flicker,subjective,,,CLIP,3,flickr_photo_with_motion_blur.png,1,1,0,1
+a photo with motion blur,flicker,subjective,,,CLIP,4,flickr_photo_with_motion_blur.png,1,1,0,1
+a photo with motion blur,flicker,subjective,,,CLIP,5,flickr_photo_with_motion_blur.png,0,0,0,0
+a photo with motion blur,flicker,subjective,,,CLIP,6,flickr_photo_with_motion_blur.png,0,0,0,0
+a photo with motion blur,flicker,subjective,,,CLIP,7,flickr_photo_with_motion_blur.png,0,0,0,0
+a photo with motion blur,flicker,subjective,,,CLIP,8,flickr_photo_with_motion_blur.png,0,0,0,0
+a photo with motion blur,flicker,subjective,,,CLIP,9,flickr_photo_with_motion_blur.png,0,1,1,1
+a photo with motion blur,flicker,subjective,,,CLIP,10,flickr_photo_with_motion_blur.png,1,0,0,0
+a photo with motion blur,flicker,subjective,"motion blur, blurred, movement","clear, sharp, still, static, steady",Feedback,1,flickr_photo_with_motion_blur.png,1,1,1,1
+a photo with motion blur,flicker,subjective,"motion blur, blurred, movement","clear, sharp, still, static, steady",Feedback,2,flickr_photo_with_motion_blur.png,1,1,1,1
+a photo with motion blur,flicker,subjective,"motion blur, blurred, movement","clear, sharp, still, static, steady",Feedback,3,flickr_photo_with_motion_blur.png,1,1,0,1
+a photo with motion blur,flicker,subjective,"motion blur, blurred, movement","clear, sharp, still, static, steady",Feedback,4,flickr_photo_with_motion_blur.png,1,1,0,1
+a photo with motion blur,flicker,subjective,"motion blur, blurred, movement","clear, sharp, still, static, steady",Feedback,5,flickr_photo_with_motion_blur.png,1,1,1,1
+a photo with motion blur,flicker,subjective,"motion blur, blurred, movement","clear, sharp, still, static, steady",Feedback,6,flickr_photo_with_motion_blur.png,1,1,1,1
+a photo with motion blur,flicker,subjective,"motion blur, blurred, movement","clear, sharp, still, static, steady",Feedback,7,flickr_photo_with_motion_blur.png,0,1,1,1
+a photo with motion blur,flicker,subjective,"motion blur, blurred, movement","clear, sharp, still, static, steady",Feedback,8,flickr_photo_with_motion_blur.png,0,0,0,0
+a photo with motion blur,flicker,subjective,"motion blur, blurred, movement","clear, sharp, still, static, steady",Feedback,9,flickr_photo_with_motion_blur.png,0,0,0,0
+a photo with motion blur,flicker,subjective,"motion blur, blurred, movement","clear, sharp, still, static, steady",Feedback,10,flickr_photo_with_motion_blur.png,0,0,1,0
+a person wearing glasses,celebA,objective,"""Eyeglasses"", ""sunglasses"", ""reading glasses""","""NoEyeglasses"", ""no sunglasses"", ""no glasses""",CLIP,1,obj-Clip-1.png,1,1,1,1
+a person wearing glasses,celebA,objective,"""Eyeglasses"", ""sunglasses"", ""reading glasses""","""NoEyeglasses"", ""no sunglasses"", ""no glasses""",CLIP,2,obj-Clip-1.png,1,1,1,1
+a person wearing glasses,celebA,objective,"""Eyeglasses"", ""sunglasses"", ""reading glasses""","""NoEyeglasses"", ""no sunglasses"", ""no glasses""",CLIP,3,obj-Clip-1.png,1,1,1,1
+a person wearing glasses,celebA,objective,"""Eyeglasses"", ""sunglasses"", ""reading glasses""","""NoEyeglasses"", ""no sunglasses"", ""no glasses""",CLIP,4,obj-Clip-1.png,1,1,1,1
+a person wearing glasses,celebA,objective,"""Eyeglasses"", ""sunglasses"", ""reading glasses""","""NoEyeglasses"", ""no sunglasses"", ""no glasses""",CLIP,5,obj-Clip-1.png,1,1,1,1
+a person wearing glasses,celebA,objective,"""Eyeglasses"", ""sunglasses"", ""reading glasses""","""NoEyeglasses"", ""no sunglasses"", ""no glasses""",CLIP,6,obj-Clip-1.png,1,1,1,1
+a person wearing glasses,celebA,objective,"""Eyeglasses"", ""sunglasses"", ""reading glasses""","""NoEyeglasses"", ""no sunglasses"", ""no glasses""",CLIP,7,obj-Clip-1.png,1,1,1,1
+a person wearing glasses,celebA,objective,"""Eyeglasses"", ""sunglasses"", ""reading glasses""","""NoEyeglasses"", ""no sunglasses"", ""no glasses""",CLIP,8,obj-Clip-1.png,1,1,1,1
+a person wearing glasses,celebA,objective,"""Eyeglasses"", ""sunglasses"", ""reading glasses""","""NoEyeglasses"", ""no sunglasses"", ""no glasses""",CLIP,9,obj-Clip-1.png,1,1,1,1
+a person wearing glasses,celebA,objective,"""Eyeglasses"", ""sunglasses"", ""reading glasses""","""NoEyeglasses"", ""no sunglasses"", ""no glasses""",CLIP,10,obj-Clip-1.png,1,1,1,1
+a person wearing glasses,celebA,objective,"""Eyeglasses"", ""sunglasses"", ""reading glasses""","""NoEyeglasses"", ""no sunglasses"", ""no glasses""",Feedback,1,obj-Feed-1.png,1,1,1,1
+a person wearing glasses,celebA,objective,"""Eyeglasses"", ""sunglasses"", ""reading glasses""","""NoEyeglasses"", ""no sunglasses"", ""no glasses""",Feedback,2,obj-Feed-1.png,1,1,1,1
+a person wearing glasses,celebA,objective,"""Eyeglasses"", ""sunglasses"", ""reading glasses""","""NoEyeglasses"", ""no sunglasses"", ""no glasses""",Feedback,3,obj-Feed-1.png,1,1,1,1
+a person wearing glasses,celebA,objective,"""Eyeglasses"", ""sunglasses"", ""reading glasses""","""NoEyeglasses"", ""no sunglasses"", ""no glasses""",Feedback,4,obj-Feed-1.png,1,1,1,1
+a person wearing glasses,celebA,objective,"""Eyeglasses"", ""sunglasses"", ""reading glasses""","""NoEyeglasses"", ""no sunglasses"", ""no glasses""",Feedback,5,obj-Feed-1.png,1,1,1,1
+a person wearing glasses,celebA,objective,"""Eyeglasses"", ""sunglasses"", ""reading glasses""","""NoEyeglasses"", ""no sunglasses"", ""no glasses""",Feedback,6,obj-Feed-1.png,1,1,1,1
+a person wearing glasses,celebA,objective,"""Eyeglasses"", ""sunglasses"", ""reading glasses""","""NoEyeglasses"", ""no sunglasses"", ""no glasses""",Feedback,7,obj-Feed-1.png,1,1,1,1
+a person wearing glasses,celebA,objective,"""Eyeglasses"", ""sunglasses"", ""reading glasses""","""NoEyeglasses"", ""no sunglasses"", ""no glasses""",Feedback,8,obj-Feed-1.png,1,1,1,1
+a person wearing glasses,celebA,objective,"""Eyeglasses"", ""sunglasses"", ""reading glasses""","""NoEyeglasses"", ""no sunglasses"", ""no glasses""",Feedback,9,obj-Feed-1.png,1,1,1,1
+a person wearing glasses,celebA,objective,"""Eyeglasses"", ""sunglasses"", ""reading glasses""","""NoEyeglasses"", ""no sunglasses"", ""no glasses""",Feedback,10,obj-Feed-1.png,1,1,1,1
+a person smiling,celebA,objective,"""Smiling"", ""happy"", ""cheerful"", ""laughing"", ""grinning""","""Neutral"", ""frowning"", ""serious"", ""sad"", ""unhappy""",CLIP,1,obj-Clip-2.png,1,1,1,1
+a person smiling,celebA,objective,"""Smiling"", ""happy"", ""cheerful"", ""laughing"", ""grinning""","""Neutral"", ""frowning"", ""serious"", ""sad"", ""unhappy""",CLIP,2,obj-Clip-2.png,1,1,1,1
+a person smiling,celebA,objective,"""Smiling"", ""happy"", ""cheerful"", ""laughing"", ""grinning""","""Neutral"", ""frowning"", ""serious"", ""sad"", ""unhappy""",CLIP,3,obj-Clip-2.png,1,1,1,1
+a person smiling,celebA,objective,"""Smiling"", ""happy"", ""cheerful"", ""laughing"", ""grinning""","""Neutral"", ""frowning"", ""serious"", ""sad"", ""unhappy""",CLIP,4,obj-Clip-2.png,1,1,1,1
+a person smiling,celebA,objective,"""Smiling"", ""happy"", ""cheerful"", ""laughing"", ""grinning""","""Neutral"", ""frowning"", ""serious"", ""sad"", ""unhappy""",CLIP,5,obj-Clip-2.png,1,1,1,1
+a person smiling,celebA,objective,"""Smiling"", ""happy"", ""cheerful"", ""laughing"", ""grinning""","""Neutral"", ""frowning"", ""serious"", ""sad"", ""unhappy""",CLIP,6,obj-Clip-2.png,1,1,1,1
+a person smiling,celebA,objective,"""Smiling"", ""happy"", ""cheerful"", ""laughing"", ""grinning""","""Neutral"", ""frowning"", ""serious"", ""sad"", ""unhappy""",CLIP,7,obj-Clip-2.png,1,1,1,1
+a person smiling,celebA,objective,"""Smiling"", ""happy"", ""cheerful"", ""laughing"", ""grinning""","""Neutral"", ""frowning"", ""serious"", ""sad"", ""unhappy""",CLIP,8,obj-Clip-2.png,1,1,1,1
+a person smiling,celebA,objective,"""Smiling"", ""happy"", ""cheerful"", ""laughing"", ""grinning""","""Neutral"", ""frowning"", ""serious"", ""sad"", ""unhappy""",CLIP,9,obj-Clip-2.png,1,1,1,1
+a person smiling,celebA,objective,"""Smiling"", ""happy"", ""cheerful"", ""laughing"", ""grinning""","""Neutral"", ""frowning"", ""serious"", ""sad"", ""unhappy""",CLIP,10,obj-Clip-2.png,1,1,1,1
+a person smiling,celebA,objective,"""Smiling"", ""happy"", ""cheerful"", ""laughing"", ""grinning""","""Neutral"", ""frowning"", ""serious"", ""sad"", ""unhappy""",Feedback,1,obj-Feed-2.png,1,1,1,1
+a person smiling,celebA,objective,"""Smiling"", ""happy"", ""cheerful"", ""laughing"", ""grinning""","""Neutral"", ""frowning"", ""serious"", ""sad"", ""unhappy""",Feedback,2,obj-Feed-2.png,1,1,1,1
+a person smiling,celebA,objective,"""Smiling"", ""happy"", ""cheerful"", ""laughing"", ""grinning""","""Neutral"", ""frowning"", ""serious"", ""sad"", ""unhappy""",Feedback,3,obj-Feed-2.png,1,1,1,1
+a person smiling,celebA,objective,"""Smiling"", ""happy"", ""cheerful"", ""laughing"", ""grinning""","""Neutral"", ""frowning"", ""serious"", ""sad"", ""unhappy""",Feedback,4,obj-Feed-2.png,1,1,1,1
+a person smiling,celebA,objective,"""Smiling"", ""happy"", ""cheerful"", ""laughing"", ""grinning""","""Neutral"", ""frowning"", ""serious"", ""sad"", ""unhappy""",Feedback,5,obj-Feed-2.png,1,1,1,1
+a person smiling,celebA,objective,"""Smiling"", ""happy"", ""cheerful"", ""laughing"", ""grinning""","""Neutral"", ""frowning"", ""serious"", ""sad"", ""unhappy""",Feedback,6,obj-Feed-2.png,1,1,1,1
+a person smiling,celebA,objective,"""Smiling"", ""happy"", ""cheerful"", ""laughing"", ""grinning""","""Neutral"", ""frowning"", ""serious"", ""sad"", ""unhappy""",Feedback,7,obj-Feed-2.png,1,1,1,1
+a person smiling,celebA,objective,"""Smiling"", ""happy"", ""cheerful"", ""laughing"", ""grinning""","""Neutral"", ""frowning"", ""serious"", ""sad"", ""unhappy""",Feedback,8,obj-Feed-2.png,1,1,1,1
+a person smiling,celebA,objective,"""Smiling"", ""happy"", ""cheerful"", ""laughing"", ""grinning""","""Neutral"", ""frowning"", ""serious"", ""sad"", ""unhappy""",Feedback,9,obj-Feed-2.png,1,1,1,1
+a person smiling,celebA,objective,"""Smiling"", ""happy"", ""cheerful"", ""laughing"", ""grinning""","""Neutral"", ""frowning"", ""serious"", ""sad"", ""unhappy""",Feedback,10,obj-Feed-2.png,1,1,1,1
+a person looking guilty,celebA,subjective,"""worried"", ""nervous"", ""serious"", ""sad"", ""secretive"", ""uncomfortable""","""smiling"", ""happy"", ""confident"", ""laughing"", ""relaxed""",CLIP,1,sub-Clip-1.png,1,1,1,1
+a person looking guilty,celebA,subjective,"""worried"", ""nervous"", ""serious"", ""sad"", ""secretive"", ""uncomfortable""","""smiling"", ""happy"", ""confident"", ""laughing"", ""relaxed""",CLIP,2,sub-Clip-1.png,1,1,1,1
+a person looking guilty,celebA,subjective,"""worried"", ""nervous"", ""serious"", ""sad"", ""secretive"", ""uncomfortable""","""smiling"", ""happy"", ""confident"", ""laughing"", ""relaxed""",CLIP,3,sub-Clip-1.png,0,0,0,0
+a person looking guilty,celebA,subjective,"""worried"", ""nervous"", ""serious"", ""sad"", ""secretive"", ""uncomfortable""","""smiling"", ""happy"", ""confident"", ""laughing"", ""relaxed""",CLIP,4,sub-Clip-1.png,0,1,0,0
+a person looking guilty,celebA,subjective,"""worried"", ""nervous"", ""serious"", ""sad"", ""secretive"", ""uncomfortable""","""smiling"", ""happy"", ""confident"", ""laughing"", ""relaxed""",CLIP,5,sub-Clip-1.png,1,0,1,1
+a person looking guilty,celebA,subjective,"""worried"", ""nervous"", ""serious"", ""sad"", ""secretive"", ""uncomfortable""","""smiling"", ""happy"", ""confident"", ""laughing"", ""relaxed""",CLIP,6,sub-Clip-1.png,0,0,0,0
+a person looking guilty,celebA,subjective,"""worried"", ""nervous"", ""serious"", ""sad"", ""secretive"", ""uncomfortable""","""smiling"", ""happy"", ""confident"", ""laughing"", ""relaxed""",CLIP,7,sub-Clip-1.png,0,0,0,0
+a person looking guilty,celebA,subjective,"""worried"", ""nervous"", ""serious"", ""sad"", ""secretive"", ""uncomfortable""","""smiling"", ""happy"", ""confident"", ""laughing"", ""relaxed""",CLIP,8,sub-Clip-1.png,0,0,0,0
+a person looking guilty,celebA,subjective,"""worried"", ""nervous"", ""serious"", ""sad"", ""secretive"", ""uncomfortable""","""smiling"", ""happy"", ""confident"", ""laughing"", ""relaxed""",CLIP,9,sub-Clip-1.png,0,0,0,0
+a person looking guilty,celebA,subjective,"""worried"", ""nervous"", ""serious"", ""sad"", ""secretive"", ""uncomfortable""","""smiling"", ""happy"", ""confident"", ""laughing"", ""relaxed""",CLIP,10,sub-Clip-1.png,0,0,0,0
+a person looking guilty,celebA,subjective,"""worried"", ""nervous"", ""serious"", ""sad"", ""secretive"", ""uncomfortable""","""smiling"", ""happy"", ""confident"", ""laughing"", ""relaxed""",Feedback,1,sub-Feed-1.png,1,1,1,1
+a person looking guilty,celebA,subjective,"""worried"", ""nervous"", ""serious"", ""sad"", ""secretive"", ""uncomfortable""","""smiling"", ""happy"", ""confident"", ""laughing"", ""relaxed""",Feedback,2,sub-Feed-1.png,1,1,1,1
+a person looking guilty,celebA,subjective,"""worried"", ""nervous"", ""serious"", ""sad"", ""secretive"", ""uncomfortable""","""smiling"", ""happy"", ""confident"", ""laughing"", ""relaxed""",Feedback,3,sub-Feed-1.png,1,0,1,1
+a person looking guilty,celebA,subjective,"""worried"", ""nervous"", ""serious"", ""sad"", ""secretive"", ""uncomfortable""","""smiling"", ""happy"", ""confident"", ""laughing"", ""relaxed""",Feedback,4,sub-Feed-1.png,0,0,0,0
+a person looking guilty,celebA,subjective,"""worried"", ""nervous"", ""serious"", ""sad"", ""secretive"", ""uncomfortable""","""smiling"", ""happy"", ""confident"", ""laughing"", ""relaxed""",Feedback,5,sub-Feed-1.png,0,0,0,0
+a person looking guilty,celebA,subjective,"""worried"", ""nervous"", ""serious"", ""sad"", ""secretive"", ""uncomfortable""","""smiling"", ""happy"", ""confident"", ""laughing"", ""relaxed""",Feedback,6,sub-Feed-1.png,0,1,1,1
+a person looking guilty,celebA,subjective,"""worried"", ""nervous"", ""serious"", ""sad"", ""secretive"", ""uncomfortable""","""smiling"", ""happy"", ""confident"", ""laughing"", ""relaxed""",Feedback,7,sub-Feed-1.png,1,1,1,1
+a person looking guilty,celebA,subjective,"""worried"", ""nervous"", ""serious"", ""sad"", ""secretive"", ""uncomfortable""","""smiling"", ""happy"", ""confident"", ""laughing"", ""relaxed""",Feedback,8,sub-Feed-1.png,1,0,0,0
+a person looking guilty,celebA,subjective,"""worried"", ""nervous"", ""serious"", ""sad"", ""secretive"", ""uncomfortable""","""smiling"", ""happy"", ""confident"", ""laughing"", ""relaxed""",Feedback,9,sub-Feed-1.png,1,1,1,1
+a person looking guilty,celebA,subjective,"""worried"", ""nervous"", ""serious"", ""sad"", ""secretive"", ""uncomfortable""","""smiling"", ""happy"", ""confident"", ""laughing"", ""relaxed""",Feedback,10,sub-Feed-1.png,0,0,0,0
+a person looking happy,celebA,subjective,"""smiling"", ""happy"", ""cheerful"", ""laughing"", ""joyful"", ""playful"", ""excited""","""sad"", ""angry"", ""serious"", ""frowning"", ""worried"", ""tired"", ""neutral""",CLIP,1,sub-Clip-2.png,1,1,1,1
+a person looking happy,celebA,subjective,"""smiling"", ""happy"", ""cheerful"", ""laughing"", ""joyful"", ""playful"", ""excited""","""sad"", ""angry"", ""serious"", ""frowning"", ""worried"", ""tired"", ""neutral""",CLIP,2,sub-Clip-2.png,1,1,1,1
+a person looking happy,celebA,subjective,"""smiling"", ""happy"", ""cheerful"", ""laughing"", ""joyful"", ""playful"", ""excited""","""sad"", ""angry"", ""serious"", ""frowning"", ""worried"", ""tired"", ""neutral""",CLIP,3,sub-Clip-2.png,1,1,1,1
+a person looking happy,celebA,subjective,"""smiling"", ""happy"", ""cheerful"", ""laughing"", ""joyful"", ""playful"", ""excited""","""sad"", ""angry"", ""serious"", ""frowning"", ""worried"", ""tired"", ""neutral""",CLIP,4,sub-Clip-2.png,1,1,1,1
+a person looking happy,celebA,subjective,"""smiling"", ""happy"", ""cheerful"", ""laughing"", ""joyful"", ""playful"", ""excited""","""sad"", ""angry"", ""serious"", ""frowning"", ""worried"", ""tired"", ""neutral""",CLIP,5,sub-Clip-2.png,1,1,1,1
+a person looking happy,celebA,subjective,"""smiling"", ""happy"", ""cheerful"", ""laughing"", ""joyful"", ""playful"", ""excited""","""sad"", ""angry"", ""serious"", ""frowning"", ""worried"", ""tired"", ""neutral""",CLIP,6,sub-Clip-2.png,1,1,1,1
+a person looking happy,celebA,subjective,"""smiling"", ""happy"", ""cheerful"", ""laughing"", ""joyful"", ""playful"", ""excited""","""sad"", ""angry"", ""serious"", ""frowning"", ""worried"", ""tired"", ""neutral""",CLIP,7,sub-Clip-2.png,1,1,1,1
+a person looking happy,celebA,subjective,"""smiling"", ""happy"", ""cheerful"", ""laughing"", ""joyful"", ""playful"", ""excited""","""sad"", ""angry"", ""serious"", ""frowning"", ""worried"", ""tired"", ""neutral""",CLIP,8,sub-Clip-2.png,1,1,1,1
+a person looking happy,celebA,subjective,"""smiling"", ""happy"", ""cheerful"", ""laughing"", ""joyful"", ""playful"", ""excited""","""sad"", ""angry"", ""serious"", ""frowning"", ""worried"", ""tired"", ""neutral""",CLIP,9,sub-Clip-2.png,1,1,1,1
+a person looking happy,celebA,subjective,"""smiling"", ""happy"", ""cheerful"", ""laughing"", ""joyful"", ""playful"", ""excited""","""sad"", ""angry"", ""serious"", ""frowning"", ""worried"", ""tired"", ""neutral""",CLIP,10,sub-Clip-2.png,1,0,1,1
+a person looking happy,celebA,subjective,"""smiling"", ""happy"", ""cheerful"", ""laughing"", ""joyful"", ""playful"", ""excited""","""sad"", ""angry"", ""serious"", ""frowning"", ""worried"", ""tired"", ""neutral""",Feedback,1,sub-Feed-2.png,1,1,1,1
+a person looking happy,celebA,subjective,"""smiling"", ""happy"", ""cheerful"", ""laughing"", ""joyful"", ""playful"", ""excited""","""sad"", ""angry"", ""serious"", ""frowning"", ""worried"", ""tired"", ""neutral""",Feedback,2,sub-Feed-2.png,1,1,1,1
+a person looking happy,celebA,subjective,"""smiling"", ""happy"", ""cheerful"", ""laughing"", ""joyful"", ""playful"", ""excited""","""sad"", ""angry"", ""serious"", ""frowning"", ""worried"", ""tired"", ""neutral""",Feedback,3,sub-Feed-2.png,1,1,1,1
+a person looking happy,celebA,subjective,"""smiling"", ""happy"", ""cheerful"", ""laughing"", ""joyful"", ""playful"", ""excited""","""sad"", ""angry"", ""serious"", ""frowning"", ""worried"", ""tired"", ""neutral""",Feedback,4,sub-Feed-2.png,1,1,1,1
+a person looking happy,celebA,subjective,"""smiling"", ""happy"", ""cheerful"", ""laughing"", ""joyful"", ""playful"", ""excited""","""sad"", ""angry"", ""serious"", ""frowning"", ""worried"", ""tired"", ""neutral""",Feedback,5,sub-Feed-2.png,1,1,1,1
+a person looking happy,celebA,subjective,"""smiling"", ""happy"", ""cheerful"", ""laughing"", ""joyful"", ""playful"", ""excited""","""sad"", ""angry"", ""serious"", ""frowning"", ""worried"", ""tired"", ""neutral""",Feedback,6,sub-Feed-2.png,1,1,1,1
+a person looking happy,celebA,subjective,"""smiling"", ""happy"", ""cheerful"", ""laughing"", ""joyful"", ""playful"", ""excited""","""sad"", ""angry"", ""serious"", ""frowning"", ""worried"", ""tired"", ""neutral""",Feedback,7,sub-Feed-2.png,1,1,1,1
+a person looking happy,celebA,subjective,"""smiling"", ""happy"", ""cheerful"", ""laughing"", ""joyful"", ""playful"", ""excited""","""sad"", ""angry"", ""serious"", ""frowning"", ""worried"", ""tired"", ""neutral""",Feedback,8,sub-Feed-2.png,1,1,1,1
+a person looking happy,celebA,subjective,"""smiling"", ""happy"", ""cheerful"", ""laughing"", ""joyful"", ""playful"", ""excited""","""sad"", ""angry"", ""serious"", ""frowning"", ""worried"", ""tired"", ""neutral""",Feedback,9,sub-Feed-2.png,1,1,1,1
+a person looking happy,celebA,subjective,"""smiling"", ""happy"", ""cheerful"", ""laughing"", ""joyful"", ""playful"", ""excited""","""sad"", ""angry"", ""serious"", ""frowning"", ""worried"", ""tired"", ""neutral""",Feedback,10,sub-Feed-2.png,1,1,1,1
+a person looking sad,celebA,subjective,"""sad"", ""serious"", ""unhappy"", ""worried"", ""downcast"", ""tired"", ""pensive""","""smiling"", ""happy"", ""laughing"", ""cheerful"", ""playful"", ""confident"", ""joyful""",CLIP,1,sub-Clip-3.png,0,0,1,0
+a person looking sad,celebA,subjective,"""sad"", ""serious"", ""unhappy"", ""worried"", ""downcast"", ""tired"", ""pensive""","""smiling"", ""happy"", ""laughing"", ""cheerful"", ""playful"", ""confident"", ""joyful""",CLIP,2,sub-Clip-3.png,0,0,1,0
+a person looking sad,celebA,subjective,"""sad"", ""serious"", ""unhappy"", ""worried"", ""downcast"", ""tired"", ""pensive""","""smiling"", ""happy"", ""laughing"", ""cheerful"", ""playful"", ""confident"", ""joyful""",CLIP,3,sub-Clip-3.png,1,1,1,1
+a person looking sad,celebA,subjective,"""sad"", ""serious"", ""unhappy"", ""worried"", ""downcast"", ""tired"", ""pensive""","""smiling"", ""happy"", ""laughing"", ""cheerful"", ""playful"", ""confident"", ""joyful""",CLIP,4,sub-Clip-3.png,0,1,0,0
+a person looking sad,celebA,subjective,"""sad"", ""serious"", ""unhappy"", ""worried"", ""downcast"", ""tired"", ""pensive""","""smiling"", ""happy"", ""laughing"", ""cheerful"", ""playful"", ""confident"", ""joyful""",CLIP,5,sub-Clip-3.png,0,0,0,0
+a person looking sad,celebA,subjective,"""sad"", ""serious"", ""unhappy"", ""worried"", ""downcast"", ""tired"", ""pensive""","""smiling"", ""happy"", ""laughing"", ""cheerful"", ""playful"", ""confident"", ""joyful""",CLIP,6,sub-Clip-3.png,0,0,0,0
+a person looking sad,celebA,subjective,"""sad"", ""serious"", ""unhappy"", ""worried"", ""downcast"", ""tired"", ""pensive""","""smiling"", ""happy"", ""laughing"", ""cheerful"", ""playful"", ""confident"", ""joyful""",CLIP,7,sub-Clip-3.png,0,0,0,0
+a person looking sad,celebA,subjective,"""sad"", ""serious"", ""unhappy"", ""worried"", ""downcast"", ""tired"", ""pensive""","""smiling"", ""happy"", ""laughing"", ""cheerful"", ""playful"", ""confident"", ""joyful""",CLIP,8,sub-Clip-3.png,0,0,0,0
+a person looking sad,celebA,subjective,"""sad"", ""serious"", ""unhappy"", ""worried"", ""downcast"", ""tired"", ""pensive""","""smiling"", ""happy"", ""laughing"", ""cheerful"", ""playful"", ""confident"", ""joyful""",CLIP,9,sub-Clip-3.png,1,1,1,1
+a person looking sad,celebA,subjective,"""sad"", ""serious"", ""unhappy"", ""worried"", ""downcast"", ""tired"", ""pensive""","""smiling"", ""happy"", ""laughing"", ""cheerful"", ""playful"", ""confident"", ""joyful""",CLIP,10,sub-Clip-3.png,0,0,0,0
+a person looking sad,celebA,subjective,"""sad"", ""serious"", ""unhappy"", ""worried"", ""downcast"", ""tired"", ""pensive""","""smiling"", ""happy"", ""laughing"", ""cheerful"", ""playful"", ""confident"", ""joyful""",Feedback,1,sub-Feed-3.png,1,1,1,1
+a person looking sad,celebA,subjective,"""sad"", ""serious"", ""unhappy"", ""worried"", ""downcast"", ""tired"", ""pensive""","""smiling"", ""happy"", ""laughing"", ""cheerful"", ""playful"", ""confident"", ""joyful""",Feedback,2,sub-Feed-3.png,1,1,1,1
+a person looking sad,celebA,subjective,"""sad"", ""serious"", ""unhappy"", ""worried"", ""downcast"", ""tired"", ""pensive""","""smiling"", ""happy"", ""laughing"", ""cheerful"", ""playful"", ""confident"", ""joyful""",Feedback,3,sub-Feed-3.png,1,1,1,1
+a person looking sad,celebA,subjective,"""sad"", ""serious"", ""unhappy"", ""worried"", ""downcast"", ""tired"", ""pensive""","""smiling"", ""happy"", ""laughing"", ""cheerful"", ""playful"", ""confident"", ""joyful""",Feedback,4,sub-Feed-3.png,0,0,1,0
+a person looking sad,celebA,subjective,"""sad"", ""serious"", ""unhappy"", ""worried"", ""downcast"", ""tired"", ""pensive""","""smiling"", ""happy"", ""laughing"", ""cheerful"", ""playful"", ""confident"", ""joyful""",Feedback,5,sub-Feed-3.png,0,0,1,0
+a person looking sad,celebA,subjective,"""sad"", ""serious"", ""unhappy"", ""worried"", ""downcast"", ""tired"", ""pensive""","""smiling"", ""happy"", ""laughing"", ""cheerful"", ""playful"", ""confident"", ""joyful""",Feedback,6,sub-Feed-3.png,0,1,1,1
+a person looking sad,celebA,subjective,"""sad"", ""serious"", ""unhappy"", ""worried"", ""downcast"", ""tired"", ""pensive""","""smiling"", ""happy"", ""laughing"", ""cheerful"", ""playful"", ""confident"", ""joyful""",Feedback,7,sub-Feed-3.png,1,1,1,1
+a person looking sad,celebA,subjective,"""sad"", ""serious"", ""unhappy"", ""worried"", ""downcast"", ""tired"", ""pensive""","""smiling"", ""happy"", ""laughing"", ""cheerful"", ""playful"", ""confident"", ""joyful""",Feedback,8,sub-Feed-3.png,0,1,0,0
+a person looking sad,celebA,subjective,"""sad"", ""serious"", ""unhappy"", ""worried"", ""downcast"", ""tired"", ""pensive""","""smiling"", ""happy"", ""laughing"", ""cheerful"", ""playful"", ""confident"", ""joyful""",Feedback,9,sub-Feed-3.png,1,0,0,0
+a person looking sad,celebA,subjective,"""sad"", ""serious"", ""unhappy"", ""worried"", ""downcast"", ""tired"", ""pensive""","""smiling"", ""happy"", ""laughing"", ""cheerful"", ""playful"", ""confident"", ""joyful""",Feedback,10,sub-Feed-3.png,0,1,1,1
+a person looking suspicious,celebA,subjective,"""serious"", ""nervous"", ""frowning"", ""secretive"", ""watchful"", ""cautious"", ""hesitant""","""smiling"", ""relaxed"", ""happy"", ""friendly"", ""open"", ""confident"", ""joyful""",CLIP,1,sub-Clip-4.png,0,0,0,0
+a person looking suspicious,celebA,subjective,"""serious"", ""nervous"", ""frowning"", ""secretive"", ""watchful"", ""cautious"", ""hesitant""","""smiling"", ""relaxed"", ""happy"", ""friendly"", ""open"", ""confident"", ""joyful""",CLIP,2,sub-Clip-4.png,1,1,1,1
+a person looking suspicious,celebA,subjective,"""serious"", ""nervous"", ""frowning"", ""secretive"", ""watchful"", ""cautious"", ""hesitant""","""smiling"", ""relaxed"", ""happy"", ""friendly"", ""open"", ""confident"", ""joyful""",CLIP,3,sub-Clip-4.png,0,0,1,0
+a person looking suspicious,celebA,subjective,"""serious"", ""nervous"", ""frowning"", ""secretive"", ""watchful"", ""cautious"", ""hesitant""","""smiling"", ""relaxed"", ""happy"", ""friendly"", ""open"", ""confident"", ""joyful""",CLIP,4,sub-Clip-4.png,1,0,0,0
+a person looking suspicious,celebA,subjective,"""serious"", ""nervous"", ""frowning"", ""secretive"", ""watchful"", ""cautious"", ""hesitant""","""smiling"", ""relaxed"", ""happy"", ""friendly"", ""open"", ""confident"", ""joyful""",CLIP,5,sub-Clip-4.png,0,0,0,0
+a person looking suspicious,celebA,subjective,"""serious"", ""nervous"", ""frowning"", ""secretive"", ""watchful"", ""cautious"", ""hesitant""","""smiling"", ""relaxed"", ""happy"", ""friendly"", ""open"", ""confident"", ""joyful""",CLIP,6,sub-Clip-4.png,0,0,0,0
+a person looking suspicious,celebA,subjective,"""serious"", ""nervous"", ""frowning"", ""secretive"", ""watchful"", ""cautious"", ""hesitant""","""smiling"", ""relaxed"", ""happy"", ""friendly"", ""open"", ""confident"", ""joyful""",CLIP,7,sub-Clip-4.png,1,0,0,0
+a person looking suspicious,celebA,subjective,"""serious"", ""nervous"", ""frowning"", ""secretive"", ""watchful"", ""cautious"", ""hesitant""","""smiling"", ""relaxed"", ""happy"", ""friendly"", ""open"", ""confident"", ""joyful""",CLIP,8,sub-Clip-4.png,1,1,0,1
+a person looking suspicious,celebA,subjective,"""serious"", ""nervous"", ""frowning"", ""secretive"", ""watchful"", ""cautious"", ""hesitant""","""smiling"", ""relaxed"", ""happy"", ""friendly"", ""open"", ""confident"", ""joyful""",CLIP,9,sub-Clip-4.png,0,0,0,0
+a person looking suspicious,celebA,subjective,"""serious"", ""nervous"", ""frowning"", ""secretive"", ""watchful"", ""cautious"", ""hesitant""","""smiling"", ""relaxed"", ""happy"", ""friendly"", ""open"", ""confident"", ""joyful""",CLIP,10,sub-Clip-4.png,0,0,0,0
+a person looking suspicious,celebA,subjective,"""serious"", ""nervous"", ""frowning"", ""secretive"", ""watchful"", ""cautious"", ""hesitant""","""smiling"", ""relaxed"", ""happy"", ""friendly"", ""open"", ""confident"", ""joyful""",Feedback,1,sub-Feed-4.png,1,1,1,1
+a person looking suspicious,celebA,subjective,"""serious"", ""nervous"", ""frowning"", ""secretive"", ""watchful"", ""cautious"", ""hesitant""","""smiling"", ""relaxed"", ""happy"", ""friendly"", ""open"", ""confident"", ""joyful""",Feedback,2,sub-Feed-4.png,0,1,1,1
+a person looking suspicious,celebA,subjective,"""serious"", ""nervous"", ""frowning"", ""secretive"", ""watchful"", ""cautious"", ""hesitant""","""smiling"", ""relaxed"", ""happy"", ""friendly"", ""open"", ""confident"", ""joyful""",Feedback,3,sub-Feed-4.png,0,0,0,0
+a person looking suspicious,celebA,subjective,"""serious"", ""nervous"", ""frowning"", ""secretive"", ""watchful"", ""cautious"", ""hesitant""","""smiling"", ""relaxed"", ""happy"", ""friendly"", ""open"", ""confident"", ""joyful""",Feedback,4,sub-Feed-4.png,0,0,1,0
+a person looking suspicious,celebA,subjective,"""serious"", ""nervous"", ""frowning"", ""secretive"", ""watchful"", ""cautious"", ""hesitant""","""smiling"", ""relaxed"", ""happy"", ""friendly"", ""open"", ""confident"", ""joyful""",Feedback,5,sub-Feed-4.png,1,1,0,1
+a person looking suspicious,celebA,subjective,"""serious"", ""nervous"", ""frowning"", ""secretive"", ""watchful"", ""cautious"", ""hesitant""","""smiling"", ""relaxed"", ""happy"", ""friendly"", ""open"", ""confident"", ""joyful""",Feedback,6,sub-Feed-4.png,0,0,1,0
+a person looking suspicious,celebA,subjective,"""serious"", ""nervous"", ""frowning"", ""secretive"", ""watchful"", ""cautious"", ""hesitant""","""smiling"", ""relaxed"", ""happy"", ""friendly"", ""open"", ""confident"", ""joyful""",Feedback,7,sub-Feed-4.png,0,0,0,0
+a person looking suspicious,celebA,subjective,"""serious"", ""nervous"", ""frowning"", ""secretive"", ""watchful"", ""cautious"", ""hesitant""","""smiling"", ""relaxed"", ""happy"", ""friendly"", ""open"", ""confident"", ""joyful""",Feedback,8,sub-Feed-4.png,0,0,1,0
+a person looking suspicious,celebA,subjective,"""serious"", ""nervous"", ""frowning"", ""secretive"", ""watchful"", ""cautious"", ""hesitant""","""smiling"", ""relaxed"", ""happy"", ""friendly"", ""open"", ""confident"", ""joyful""",Feedback,9,sub-Feed-4.png,0,0,0,0
+a person looking suspicious,celebA,subjective,"""serious"", ""nervous"", ""frowning"", ""secretive"", ""watchful"", ""cautious"", ""hesitant""","""smiling"", ""relaxed"", ""happy"", ""friendly"", ""open"", ""confident"", ""joyful""",Feedback,10,sub-Feed-4.png,1,1,1,1
+a person looking tired,celebA,subjective,"""tired"", ""sleepy"", ""uncomfortable"", ""serious"", ""weary"", ""fatigued"", ""drowsy""","""energetic"", ""smiling"", ""happy"", ""confident"", ""alert"", ""playful"", ""cheerful""",CLIP,1,sub-Clip-5.png,0,1,1,1
+a person looking tired,celebA,subjective,"""tired"", ""sleepy"", ""uncomfortable"", ""serious"", ""weary"", ""fatigued"", ""drowsy""","""energetic"", ""smiling"", ""happy"", ""confident"", ""alert"", ""playful"", ""cheerful""",CLIP,2,sub-Clip-5.png,1,0,0,0
+a person looking tired,celebA,subjective,"""tired"", ""sleepy"", ""uncomfortable"", ""serious"", ""weary"", ""fatigued"", ""drowsy""","""energetic"", ""smiling"", ""happy"", ""confident"", ""alert"", ""playful"", ""cheerful""",CLIP,3,sub-Clip-5.png,0,0,1,0
+a person looking tired,celebA,subjective,"""tired"", ""sleepy"", ""uncomfortable"", ""serious"", ""weary"", ""fatigued"", ""drowsy""","""energetic"", ""smiling"", ""happy"", ""confident"", ""alert"", ""playful"", ""cheerful""",CLIP,4,sub-Clip-5.png,0,0,0,0
+a person looking tired,celebA,subjective,"""tired"", ""sleepy"", ""uncomfortable"", ""serious"", ""weary"", ""fatigued"", ""drowsy""","""energetic"", ""smiling"", ""happy"", ""confident"", ""alert"", ""playful"", ""cheerful""",CLIP,5,sub-Clip-5.png,1,0,0,0
+a person looking tired,celebA,subjective,"""tired"", ""sleepy"", ""uncomfortable"", ""serious"", ""weary"", ""fatigued"", ""drowsy""","""energetic"", ""smiling"", ""happy"", ""confident"", ""alert"", ""playful"", ""cheerful""",CLIP,6,sub-Clip-5.png,0,0,0,0
+a person looking tired,celebA,subjective,"""tired"", ""sleepy"", ""uncomfortable"", ""serious"", ""weary"", ""fatigued"", ""drowsy""","""energetic"", ""smiling"", ""happy"", ""confident"", ""alert"", ""playful"", ""cheerful""",CLIP,7,sub-Clip-5.png,0,1,0,0
+a person looking tired,celebA,subjective,"""tired"", ""sleepy"", ""uncomfortable"", ""serious"", ""weary"", ""fatigued"", ""drowsy""","""energetic"", ""smiling"", ""happy"", ""confident"", ""alert"", ""playful"", ""cheerful""",CLIP,8,sub-Clip-5.png,1,1,1,1
+a person looking tired,celebA,subjective,"""tired"", ""sleepy"", ""uncomfortable"", ""serious"", ""weary"", ""fatigued"", ""drowsy""","""energetic"", ""smiling"", ""happy"", ""confident"", ""alert"", ""playful"", ""cheerful""",CLIP,9,sub-Clip-5.png,0,0,0,0
+a person looking tired,celebA,subjective,"""tired"", ""sleepy"", ""uncomfortable"", ""serious"", ""weary"", ""fatigued"", ""drowsy""","""energetic"", ""smiling"", ""happy"", ""confident"", ""alert"", ""playful"", ""cheerful""",CLIP,10,sub-Clip-5.png,0,0,0,0
+a person looking tired,celebA,subjective,"""tired"", ""sleepy"", ""uncomfortable"", ""serious"", ""weary"", ""fatigued"", ""drowsy""","""energetic"", ""smiling"", ""happy"", ""confident"", ""alert"", ""playful"", ""cheerful""",Feedback,1,sub-Feed-5.png,1,1,1,1
+a person looking tired,celebA,subjective,"""tired"", ""sleepy"", ""uncomfortable"", ""serious"", ""weary"", ""fatigued"", ""drowsy""","""energetic"", ""smiling"", ""happy"", ""confident"", ""alert"", ""playful"", ""cheerful""",Feedback,2,sub-Feed-5.png,0,1,0,0
+a person looking tired,celebA,subjective,"""tired"", ""sleepy"", ""uncomfortable"", ""serious"", ""weary"", ""fatigued"", ""drowsy""","""energetic"", ""smiling"", ""happy"", ""confident"", ""alert"", ""playful"", ""cheerful""",Feedback,3,sub-Feed-5.png,1,1,1,1
+a person looking tired,celebA,subjective,"""tired"", ""sleepy"", ""uncomfortable"", ""serious"", ""weary"", ""fatigued"", ""drowsy""","""energetic"", ""smiling"", ""happy"", ""confident"", ""alert"", ""playful"", ""cheerful""",Feedback,4,sub-Feed-5.png,1,1,1,1
+a person looking tired,celebA,subjective,"""tired"", ""sleepy"", ""uncomfortable"", ""serious"", ""weary"", ""fatigued"", ""drowsy""","""energetic"", ""smiling"", ""happy"", ""confident"", ""alert"", ""playful"", ""cheerful""",Feedback,5,sub-Feed-5.png,0,1,1,1
+a person looking tired,celebA,subjective,"""tired"", ""sleepy"", ""uncomfortable"", ""serious"", ""weary"", ""fatigued"", ""drowsy""","""energetic"", ""smiling"", ""happy"", ""confident"", ""alert"", ""playful"", ""cheerful""",Feedback,6,sub-Feed-5.png,0,0,1,0
+a person looking tired,celebA,subjective,"""tired"", ""sleepy"", ""uncomfortable"", ""serious"", ""weary"", ""fatigued"", ""drowsy""","""energetic"", ""smiling"", ""happy"", ""confident"", ""alert"", ""playful"", ""cheerful""",Feedback,7,sub-Feed-5.png,0,1,1,1
+a person looking tired,celebA,subjective,"""tired"", ""sleepy"", ""uncomfortable"", ""serious"", ""weary"", ""fatigued"", ""drowsy""","""energetic"", ""smiling"", ""happy"", ""confident"", ""alert"", ""playful"", ""cheerful""",Feedback,8,sub-Feed-5.png,0,0,0,0
+a person looking tired,celebA,subjective,"""tired"", ""sleepy"", ""uncomfortable"", ""serious"", ""weary"", ""fatigued"", ""drowsy""","""energetic"", ""smiling"", ""happy"", ""confident"", ""alert"", ""playful"", ""cheerful""",Feedback,9,sub-Feed-5.png,0,0,0,0
+a person looking tired,celebA,subjective,"""tired"", ""sleepy"", ""uncomfortable"", ""serious"", ""weary"", ""fatigued"", ""drowsy""","""energetic"", ""smiling"", ""happy"", ""confident"", ""alert"", ""playful"", ""cheerful""",Feedback,10,sub-Feed-5.png,0,1,1,1
+a person looking confident,celebA,subjective,"""confident"", ""serious"", ""assertive"", ""upright posture"", ""determined"", ""focused"", ""self-assured""","""nervous"", ""shy"", ""worried"", ""timid"", ""hesitant"", ""uncertain"", ""distracted""",CLIP,1,sub-Clip-6.png,1,1,1,1
+a person looking confident,celebA,subjective,"""confident"", ""serious"", ""assertive"", ""upright posture"", ""determined"", ""focused"", ""self-assured""","""nervous"", ""shy"", ""worried"", ""timid"", ""hesitant"", ""uncertain"", ""distracted""",CLIP,2,sub-Clip-6.png,1,1,1,1
+a person looking confident,celebA,subjective,"""confident"", ""serious"", ""assertive"", ""upright posture"", ""determined"", ""focused"", ""self-assured""","""nervous"", ""shy"", ""worried"", ""timid"", ""hesitant"", ""uncertain"", ""distracted""",CLIP,3,sub-Clip-6.png,1,1,1,1
+a person looking confident,celebA,subjective,"""confident"", ""serious"", ""assertive"", ""upright posture"", ""determined"", ""focused"", ""self-assured""","""nervous"", ""shy"", ""worried"", ""timid"", ""hesitant"", ""uncertain"", ""distracted""",CLIP,4,sub-Clip-6.png,0,0,0,0
+a person looking confident,celebA,subjective,"""confident"", ""serious"", ""assertive"", ""upright posture"", ""determined"", ""focused"", ""self-assured""","""nervous"", ""shy"", ""worried"", ""timid"", ""hesitant"", ""uncertain"", ""distracted""",CLIP,5,sub-Clip-6.png,0,0,0,0
+a person looking confident,celebA,subjective,"""confident"", ""serious"", ""assertive"", ""upright posture"", ""determined"", ""focused"", ""self-assured""","""nervous"", ""shy"", ""worried"", ""timid"", ""hesitant"", ""uncertain"", ""distracted""",CLIP,6,sub-Clip-6.png,0,1,0,0
+a person looking confident,celebA,subjective,"""confident"", ""serious"", ""assertive"", ""upright posture"", ""determined"", ""focused"", ""self-assured""","""nervous"", ""shy"", ""worried"", ""timid"", ""hesitant"", ""uncertain"", ""distracted""",CLIP,7,sub-Clip-6.png,1,1,1,1
+a person looking confident,celebA,subjective,"""confident"", ""serious"", ""assertive"", ""upright posture"", ""determined"", ""focused"", ""self-assured""","""nervous"", ""shy"", ""worried"", ""timid"", ""hesitant"", ""uncertain"", ""distracted""",CLIP,8,sub-Clip-6.png,1,1,1,1
+a person looking confident,celebA,subjective,"""confident"", ""serious"", ""assertive"", ""upright posture"", ""determined"", ""focused"", ""self-assured""","""nervous"", ""shy"", ""worried"", ""timid"", ""hesitant"", ""uncertain"", ""distracted""",CLIP,9,sub-Clip-6.png,1,0,1,1
+a person looking confident,celebA,subjective,"""confident"", ""serious"", ""assertive"", ""upright posture"", ""determined"", ""focused"", ""self-assured""","""nervous"", ""shy"", ""worried"", ""timid"", ""hesitant"", ""uncertain"", ""distracted""",CLIP,10,sub-Clip-6.png,1,1,1,1
+a person looking confident,celebA,subjective,"""confident"", ""serious"", ""assertive"", ""upright posture"", ""determined"", ""focused"", ""self-assured""","""nervous"", ""shy"", ""worried"", ""timid"", ""hesitant"", ""uncertain"", ""distracted""",Feedback,1,sub-Feed-6.png,1,1,1,1
+a person looking confident,celebA,subjective,"""confident"", ""serious"", ""assertive"", ""upright posture"", ""determined"", ""focused"", ""self-assured""","""nervous"", ""shy"", ""worried"", ""timid"", ""hesitant"", ""uncertain"", ""distracted""",Feedback,2,sub-Feed-6.png,1,1,1,1
+a person looking confident,celebA,subjective,"""confident"", ""serious"", ""assertive"", ""upright posture"", ""determined"", ""focused"", ""self-assured""","""nervous"", ""shy"", ""worried"", ""timid"", ""hesitant"", ""uncertain"", ""distracted""",Feedback,3,sub-Feed-6.png,1,1,1,1
+a person looking confident,celebA,subjective,"""confident"", ""serious"", ""assertive"", ""upright posture"", ""determined"", ""focused"", ""self-assured""","""nervous"", ""shy"", ""worried"", ""timid"", ""hesitant"", ""uncertain"", ""distracted""",Feedback,4,sub-Feed-6.png,1,1,1,1
+a person looking confident,celebA,subjective,"""confident"", ""serious"", ""assertive"", ""upright posture"", ""determined"", ""focused"", ""self-assured""","""nervous"", ""shy"", ""worried"", ""timid"", ""hesitant"", ""uncertain"", ""distracted""",Feedback,5,sub-Feed-6.png,1,1,0,1
+a person looking confident,celebA,subjective,"""confident"", ""serious"", ""assertive"", ""upright posture"", ""determined"", ""focused"", ""self-assured""","""nervous"", ""shy"", ""worried"", ""timid"", ""hesitant"", ""uncertain"", ""distracted""",Feedback,6,sub-Feed-6.png,1,1,1,1
+a person looking confident,celebA,subjective,"""confident"", ""serious"", ""assertive"", ""upright posture"", ""determined"", ""focused"", ""self-assured""","""nervous"", ""shy"", ""worried"", ""timid"", ""hesitant"", ""uncertain"", ""distracted""",Feedback,7,sub-Feed-6.png,1,1,1,1
+a person looking confident,celebA,subjective,"""confident"", ""serious"", ""assertive"", ""upright posture"", ""determined"", ""focused"", ""self-assured""","""nervous"", ""shy"", ""worried"", ""timid"", ""hesitant"", ""uncertain"", ""distracted""",Feedback,8,sub-Feed-6.png,1,1,1,1
+a person looking confident,celebA,subjective,"""confident"", ""serious"", ""assertive"", ""upright posture"", ""determined"", ""focused"", ""self-assured""","""nervous"", ""shy"", ""worried"", ""timid"", ""hesitant"", ""uncertain"", ""distracted""",Feedback,9,sub-Feed-6.png,0,1,1,1
+a person looking confident,celebA,subjective,"""confident"", ""serious"", ""assertive"", ""upright posture"", ""determined"", ""focused"", ""self-assured""","""nervous"", ""shy"", ""worried"", ""timid"", ""hesitant"", ""uncertain"", ""distracted""",Feedback,10,sub-Feed-6.png,1,1,1,1

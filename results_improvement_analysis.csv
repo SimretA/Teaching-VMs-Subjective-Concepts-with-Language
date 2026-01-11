@@ -1,0 +1,23 @@
+query,dataset,query_type,improvement_p5,improvement_p10,clip_p5,feedback_p5,clip_p10,feedback_p10
+a dog looking guilty,stanford_dogs,subjective,0.6,0.30000000000000004,0.4,1.0,0.6,0.9
+a dog on a beach,stanford_dogs,objective,0.0,0.0,1.0,1.0,0.9,0.9
+a dog playing,flicker,objective,0.19999999999999996,0.09999999999999998,0.8,1.0,0.8,0.9
+a friendly looking dog,stanford_dogs,subjective,0.19999999999999996,0.4,0.4,0.6,0.4,0.8
+a golder retriever,stanford_dogs,objective,0.4,0.0,0.4,0.8,0.6,0.6
+a hyperactive dog,stanford_dogs,subjective,-0.19999999999999996,0.09999999999999998,1.0,0.8,0.8,0.9
+a joyful moment,flicker,subjective,0.20000000000000007,0.0,0.6,0.8,0.8,0.8
+a nervous looking dog,stanford_dogs,subjective,0.2,0.5,0.2,0.4,0.1,0.6
+a peaceful scene,flicker,subjective,0.0,0.09999999999999998,1.0,1.0,0.9,1.0
+a person looking confident,celebA,subjective,0.4,0.30000000000000004,0.6,1.0,0.7,1.0
+a person looking guilty,celebA,subjective,0.0,0.3,0.6,0.6,0.3,0.6
+a person looking happy,celebA,subjective,0.0,0.0,1.0,1.0,1.0,1.0
+a person looking sad,celebA,subjective,0.39999999999999997,0.39999999999999997,0.2,0.6,0.2,0.6
+a person looking suspicious,celebA,subjective,0.39999999999999997,0.2,0.2,0.6,0.2,0.4
+a person looking tired,celebA,subjective,0.6000000000000001,0.39999999999999997,0.2,0.8,0.2,0.6
+a person riding a bicycle,flicker,objective,0.0,0.10000000000000009,0.8,0.8,0.7,0.8
+a person smiling,celebA,objective,0.0,0.0,1.0,1.0,1.0,1.0
+a person wearing glasses,celebA,objective,0.0,0.0,1.0,1.0,1.0,1.0
+a photo with motion blur,flicker,subjective,0.19999999999999996,0.19999999999999996,0.8,1.0,0.5,0.7
+an agressive looking dog,stanford_dogs,subjective,0.6000000000000001,0.3,0.2,0.8,0.2,0.5
+an exciting action scene,flicker,subjective,-0.19999999999999996,0.09999999999999998,1.0,0.8,0.8,0.9
+kid having fun,flicker,subjective,0.20000000000000007,0.30000000000000004,0.6,0.8,0.6,0.9

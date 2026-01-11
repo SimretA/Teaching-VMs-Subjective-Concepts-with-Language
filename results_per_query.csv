@@ -1,0 +1,45 @@
+query,dataset,query_type,method,precision@5,relevant_in_top_k,k,precision@10
+a person smiling,celebA,objective,CLIP,1.0,5,5,1.0
+a person smiling,celebA,objective,Feedback,1.0,5,5,1.0
+a person wearing glasses,celebA,objective,CLIP,1.0,5,5,1.0
+a person wearing glasses,celebA,objective,Feedback,1.0,5,5,1.0
+a person looking confident,celebA,subjective,CLIP,0.6,3,5,0.7
+a person looking confident,celebA,subjective,Feedback,1.0,5,5,1.0
+a person looking guilty,celebA,subjective,CLIP,0.6,3,5,0.3
+a person looking guilty,celebA,subjective,Feedback,0.6,3,5,0.6
+a person looking happy,celebA,subjective,CLIP,1.0,5,5,1.0
+a person looking happy,celebA,subjective,Feedback,1.0,5,5,1.0
+a person looking sad,celebA,subjective,CLIP,0.2,1,5,0.2
+a person looking sad,celebA,subjective,Feedback,0.6,3,5,0.6
+a person looking suspicious,celebA,subjective,CLIP,0.2,1,5,0.2
+a person looking suspicious,celebA,subjective,Feedback,0.6,3,5,0.4
+a person looking tired,celebA,subjective,CLIP,0.2,1,5,0.2
+a person looking tired,celebA,subjective,Feedback,0.8,4,5,0.6
+a dog playing,flicker,objective,CLIP,0.8,4,5,0.8
+a dog playing,flicker,objective,Feedback,1.0,5,5,0.9
+a person riding a bicycle,flicker,objective,CLIP,0.8,4,5,0.7
+a person riding a bicycle,flicker,objective,Feedback,0.8,4,5,0.8
+a joyful moment,flicker,subjective,CLIP,0.6,3,5,0.8
+a joyful moment,flicker,subjective,Feedback,0.8,4,5,0.8
+a peaceful scene,flicker,subjective,CLIP,1.0,5,5,0.9
+a peaceful scene,flicker,subjective,Feedback,1.0,5,5,1.0
+a photo with motion blur,flicker,subjective,CLIP,0.8,4,5,0.5
+a photo with motion blur,flicker,subjective,Feedback,1.0,5,5,0.7
+an exciting action scene,flicker,subjective,CLIP,1.0,5,5,0.8
+an exciting action scene,flicker,subjective,Feedback,0.8,4,5,0.9
+kid having fun,flicker,subjective,CLIP,0.6,3,5,0.6
+kid having fun,flicker,subjective,Feedback,0.8,4,5,0.9
+a dog on a beach,stanford_dogs,objective,CLIP,1.0,5,5,0.9
+a dog on a beach,stanford_dogs,objective,Feedback,1.0,5,5,0.9
+a golder retriever,stanford_dogs,objective,CLIP,0.4,2,5,0.6
+a golder retriever,stanford_dogs,objective,Feedback,0.8,4,5,0.6
+a dog looking guilty,stanford_dogs,subjective,CLIP,0.4,2,5,0.6
+a dog looking guilty,stanford_dogs,subjective,Feedback,1.0,5,5,0.9
+a friendly looking dog,stanford_dogs,subjective,CLIP,0.4,2,5,0.4
+a friendly looking dog,stanford_dogs,subjective,Feedback,0.6,3,5,0.8
+a hyperactive dog,stanford_dogs,subjective,CLIP,1.0,5,5,0.8
+a hyperactive dog,stanford_dogs,subjective,Feedback,0.8,4,5,0.9
+a nervous looking dog,stanford_dogs,subjective,CLIP,0.2,1,5,0.1
+a nervous looking dog,stanford_dogs,subjective,Feedback,0.4,2,5,0.6
+an agressive looking dog,stanford_dogs,subjective,CLIP,0.2,1,5,0.2
+an agressive looking dog,stanford_dogs,subjective,Feedback,0.8,4,5,0.5
