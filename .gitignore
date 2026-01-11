@@ -224,4 +224,5 @@ data/list_attr_celeba.csv
 data/celeba-dataset/
 data/flickr8k_subset/
 celeba_subset/
-stanford_dogs_subset/step-01_FULL.ipynb
+stanford_dogs_subset/
+step-01_FULL.ipynb
